@@ -1,0 +1,1037 @@
+key,autopsy_outsourced,county_fips,autopsy_agency_stdized,cause_drugs,outcome_cause_inj,outcome_cause_either,state_fips,jurisdiction_type,county_name,county_pov,county_rucc,county_pct_repub,exclude,cause_exds
+Idaho-2015-HERNANDEZ-ALLEN,0,16073,Ada County Coroner's Office,1,0,0,16,coroner,Owyhee County,0.27551475,2,0.77033359,0,0
+Colorado-2017-EGLI-PAUL,0,8031,Adams CO coroner,1,0,0,8,coroner,Denver County,0.15103672,1,0.20404178,0,1
+Colorado-2017-GUTIERREZ-ALEJANDRO,0,8001,Adams CO coroner,1,0,0,8,coroner,Adams County,0.12219449,1,0.45336276,0,1
+Colorado-2019-MCCLAIN-ELIJAH,0,8001,Adams CO coroner,0,0,1,8,coroner,Adams County,0.1084666,1,0.45336276,0,0
+Alabama-2012-RACHEL-GREGORY,0,1097,Alabama Department of Forensic Sciences,0,0,0,1,me,Mobile County,0.19489108,2,0.54645181,0,1
+Alabama-2013-ILLIDGE-KHARI,1,1113,Alabama Department of Forensic Sciences,0,0,0,1,coroner,Russell County,0.22023636,2,0.44083503,0,0
+Alabama-2013-NA-Juvenile - Name withheld,1,1089,Alabama Department of Forensic Sciences,0,0,0,1,coroner,Madison County,0.12831643,2,0.59440547,0,0
+Alabama-2014-DORSETT-JOSE,1,1103,Alabama Department of Forensic Sciences,1,0,0,1,coroner,Morgan County,0.15130949,3,0.72477984,0,0
+Alabama-2015-JORDAN-CURTIS,1,1089,Alabama Department of Forensic Sciences,0,0,0,1,coroner,Madison County,0.13737324,2,0.59440547,0,1
+Alabama-2015-WARE-ANTHONY,1,1125,Alabama Department of Forensic Sciences,1,0,0,1,coroner,Tuscaloosa County,0.1909178,2,0.58805078,0,0
+Alabama-2016-NELSON-RANDY,1,1083,Alabama Department of Forensic Sciences,0,0,0,1,coroner,Limestone County,0.14100343,2,0.75430131,0,1
+Alabama-2018-PETTAWAY-JOSEPH,1,1101,Alabama Department of Forensic Sciences,0,1,1,1,coroner,Montgomery County,0.2069419,2,0.36594239,0,0
+Alabama-2019-MCCORVEY-CHRISTOPHER,0,1097,Alabama Department of Forensic Sciences,,,,1,me,Mobile County,0.18780608,2,0.56852877,0,
+Alabama-2021-BRANNAN-CODY,1,1069,Alabama Department of Forensic Sciences,1,0,0,1,coroner,Houston County,0.17665231,3,0.71632808,0,0
+California-2012-HOLTE-BRIAN,0,6001,Alameda CA sheriff-coroner,1,0,1,6,sheriff-coroner,Alameda County,0.12023553,1,0.18720949,0,1
+California-2013-JARAMILLO-HERNAN,0,6001,Alameda CA sheriff-coroner,1,0,0,6,sheriff-coroner,Alameda County,0.1250359,1,0.18720949,0,0
+California-2013-MOORE-KAYLA,0,6001,Alameda CA sheriff-coroner,1,0,0,6,sheriff-coroner,Alameda County,0.1250359,1,0.18720949,0,0
+California-2014-GREER-JAMES,0,6001,Alameda CA sheriff-coroner,1,0,0,6,sheriff-coroner,Alameda County,0.12876973,1,0.18720949,0,0
+California-2015-JIMERSON-EUGENE,0,6001,Alameda CA sheriff-coroner,1,0,0,6,sheriff-coroner,Alameda County,0.12500201,1,0.18720949,0,0
+California-2015-NELSON JR.-ROY,0,6001,Alameda CA sheriff-coroner,1,0,0,6,sheriff-coroner,Alameda County,0.12500201,1,0.18720949,0,0
+California-2017-TONEY-MARCELLUS,0,6001,Alameda CA sheriff-coroner,1,0,0,6,sheriff-coroner,Alameda County,0.11307967,1,0.15705247,0,1
+California-2018-BAUER-JACOB,0,6001,Alameda CA sheriff-coroner,1,0,0,6,sheriff-coroner,Alameda County,0.10566495,1,0.15705247,0,0
+California-2018-GATTENBY-SHELBY,0,6001,Alameda CA sheriff-coroner,1,0,0,6,sheriff-coroner,Alameda County,0.10566495,1,0.15705247,0,0
+California-2019-RECHTEN-TYLER,0,6001,Alameda CA sheriff-coroner,1,0,1,6,sheriff-coroner,Alameda County,0.099111751,1,0.15705247,0,0
+California-2021-GONZALEZ-MARIO,0,6001,Alameda CA sheriff-coroner,1,0,0,6,sheriff-coroner,Alameda County,0.089137651,1,0.18078884,0,0
+New York-2015-IVY JR.-DONALD,0,36001,Albany NY coroner,0,0,0,36,coroner,Albany County,0.13483165,2,0.32378331,0,0
+Pennsylvania-2013-BETO-GARY,0,42003,Allegheny County Medical Examiner,0,1,1,42,me,Allegheny County,0.12859388,1,0.42626959,0,0
+South Dakota-2019-JANIS-JEREMIAH,,46103,Allegheny County Medical Examiner,,,,46,sheriff-coroner,Pennington County,0.13754381,3,0.67924702,0,
+Indiana-2018-GRABER-BRENT,0,18003,Allen IN coroner,1,0,0,18,coroner,Allen County,0.1434027,2,0.60246068,0,0
+Texas-2021-WILSON-DERRICK,0,48005,Angelina TX coroner,1,0,0,48,coroner,Angelina County,0.17287269,5,0.73280925,0,0
+Colorado-2014-ROTZIN-JOHN,0,8005,Arapahoe CO coroner,0,0,0,8,coroner,Arapahoe County,0.11656692,1,0.44934219,0,1
+Colorado-2018-BAKER-DAVID,0,8005,Arapahoe CO coroner,0,1,1,8,coroner,Arapahoe County,0.090138584,1,0.42266861,0,0
+Arkansas-2012-DAVIS-BOOKER,0,5119,Arkansas State Crime Lab,1,0,0,5,me,Pulaski County,0.17192186,2,0.44154847,0,0
+Arkansas-2015-FALLS-ERIC,0,5149,Arkansas State Crime Lab,1,0,0,5,me,Yell County,0.18637843,9,0.70124912,0,0
+Arkansas-2016-BROWN-KENDRICK,0,5043,Arkansas State Crime Lab,0,1,1,5,me,Drew County,0.2773585,7,0.62655932,0,0
+Arkansas-2016-CALDWELL-MATTHEW,0,5063,Arkansas State Crime Lab,1,0,0,5,me,Independence County,0.19208363,7,0.77522039,0,0
+Arkansas-2016-COOPER-CARL,1,5023,Arkansas State Crime Lab,0,0,0,5,coroner,Cleburne County,0.15490609,6,0.81823689,0,0
+Arkansas-2017-SNOWDEN-HEATH,0,5023,Arkansas State Crime Lab,1,0,1,5,me,Cleburne County,0.15357158,6,0.81823689,0,0
+Arkansas-2017-TWIST-REGINA,0,5029,Arkansas State Crime Lab,1,0,1,5,me,Conway County,0.18537268,6,0.64610261,0,0
+Arkansas-2019-LAIRD-QUINTON,0,5147,Arkansas State Crime Lab,,,,5,me,Woodruff County,0.25213271,9,0.54645032,0,
+Arkansas-2019-PORTERFIELD-ISRAEL,0,5031,Arkansas State Crime Lab,1,0,0,5,me,Craighead County,0.16627516,3,0.68477416,0,0
+Arkansas-2020-MORRIS-LIONEL,0,5045,Arkansas State Crime Lab,1,0,1,5,me,Faulkner County,0.15685488,2,0.66733372,0,0
+Arkansas-2021-CAFFEY-TERENCE,0,5119,Arkansas State Crime Lab,0,0,1,5,me,Pulaski County,0.15832363,2,0.40613005,0,0
+Arkansas-2021-COLEMAN-TIMOTHY,0,5031,Arkansas State Crime Lab,1,0,0,5,me,Craighead County,0.17792533,3,0.68477416,0,0
+Arkansas-2021-KLORIK-BRANDON,0,5051,Arkansas State Crime Lab,1,0,0,5,me,Garland County,0.1620377,3,0.67938435,0,0
+Louisiana-2012-BENNETT-CHARMIN,0,22005,Ascension Parish LA coroner,1,0,0,22,coroner,Ascension Parish,0.11222189,2,0.67435515,0,1
+Louisiana-2017-FRANK-ARMANDO,0,22009,Avoyelles Parish LA coroner,0,1,1,22,coroner,Avoyelles Parish,0.23709272,6,0.68919754,0,0
+Idaho-2012-BENGLAN-KEVIN,0,16005,Bannock ID coroner,1,0,0,16,coroner,Bannock County,0.1409644,3,0.61389667,0,0
+Washington-2018-GARZA-NICOLAS,0,53005,Benton WA coroner,1,0,0,53,coroner,Benton County,0.12785426,2,0.64162385,0,0
+Washington-2019-GONZALES-SAMUEL,0,53005,Benton WA coroner,1,0,0,53,coroner,Benton County,0.11928397,2,0.64162385,0,0
+Washington-2019-MERCADO-JOSE,0,53005,Benton WA coroner,1,0,0,53,coroner,Benton County,0.11928397,2,0.64162385,0,0
+Texas-2013-AGUIRRE-JESSE,0,48029,Bexar County Medical Examiner,1,0,0,48,me,Bexar County,0.17639352,1,0.47705799,0,1
+Texas-2013-EGAN-MICHAEL,0,48029,Bexar County Medical Examiner,0,1,1,48,me,Bexar County,0.17639352,1,0.47705799,1,0
+Texas-2013-GONZALEZ-JUAN,1,48325,Bexar County Medical Examiner,1,0,0,48,coroner,Medina County,0.17729284,1,0.69841772,0,1
+Texas-2014-FRANCO-JOSE,0,48029,Bexar County Medical Examiner,0,0,0,48,me,Bexar County,0.17823717,1,0.47705799,0,0
+Texas-2014-GARCIA-MACARIO,0,48013,Bexar County Medical Examiner,1,0,0,48,me,Atascosa County,0.15631752,1,0.59242499,0,0
+Texas-2014-LOVE-LEVON,0,48029,Bexar County Medical Examiner,1,0,0,48,me,Bexar County,0.17823717,1,0.47705799,0,0
+Texas-2015-COOPER-NORMAN,0,48029,Bexar County Medical Examiner,1,0,0,48,me,Bexar County,0.17425612,1,0.47705799,0,0
+Texas-2015-GARCIA-SILVESTRE,0,48029,Bexar County Medical Examiner,1,0,0,48,me,Bexar County,0.17425612,1,0.47705799,0,1
+Texas-2015-GONZALEZ-MARK,0,48029,Bexar County Medical Examiner,0,0,1,48,me,Bexar County,0.17425612,1,0.47705799,0,0
+Texas-2016-CARRAMAN-ERNESTO,0,48029,Bexar County Medical Examiner,1,0,1,48,me,Bexar County,0.17175689,1,0.42925575,0,0
+Texas-2018-ELIZONDO-ROBERTO,0,48163,Bexar County Medical Examiner,1,0,0,48,me,Frio County,0.20240149,6,0.4316279,0,0
+Texas-2018-GUZMAN-GASPAR,0,48029,Bexar County Medical Examiner,1,0,0,48,me,Bexar County,0.16257995,1,0.42925575,0,0
+Texas-2019-MIRELES-EMMANUEL,1,48493,Bexar County Medical Examiner,1,0,0,48,coroner,Wilson County,0.09594918,1,0.74505001,0,1
+Texas-2019-TOWNSEND-GEORGE,1,48493,Bexar County Medical Examiner,1,0,0,48,coroner,Wilson County,0.09594918,1,0.74505001,0,0
+Texas-2021-RODRIGUEZ III-BALTASAR,0,48029,Bexar County Medical Examiner,1,0,0,48,me,Bexar County,0.15133514,1,0.40764791,0,0
+Colorado-2018-SHANKLING-DEMETRIUS,0,8013,Boulder CO coroner,1,1,1,8,coroner,Boulder County,0.12461811,2,0.23827779,0,0
+Florida-2014-TYSON-DANIEL,0,12011,Broward County Office of Medical Examiner and Trauma Services,0,0,0,12,me,Broward County,0.14634982,1,0.32442421,0,0
+Florida-2015-REID-CALVON,0,12011,Broward County Office of Medical Examiner and Trauma Services,1,0,0,12,me,Broward County,0.14548638,1,0.32442421,0,0
+Florida-2017-WILLIAMS JR.-THOMAS,0,12011,Broward County Office of Medical Examiner and Trauma Services,1,0,0,12,me,Broward County,0.13996401,1,0.32047194,0,0
+Florida-2018-BLAKE-DERRICK,0,12086,Broward County Office of Medical Examiner and Trauma Services,0,0,0,12,me,Miami-Dade County,0.18035637,1,0.34858921,0,0
+Missouri-2016-JOHNSON-BRUCE,0,29021,Buchanan County Medical Examiner,1,0,0,29,me,Buchanan County,0.18357749,3,0.63960642,0,0
+Louisiana-2015-COX-BOB,0,22019,Calcasieu Parish LA coroner,0,0,0,22,coroner,Calcasieu Parish,0.1710562,2,0.64643621,1,0
+Texas-2018-CARMONA-ANDREW,0,48055,Caldwell TX coroner,1,0,1,48,coroner,Caldwell County,0.17735782,1,0.58253527,0,0
+Texas-2015-ORTIZ-SILVIANO,1,48061,Cameron County Forensic Pathology,1,0,0,48,coroner,Cameron County,0.33808732,2,0.34307384,0,0
+Texas-2018-SERVELLON-AARON,1,48061,Cameron County Forensic Pathology,1,0,0,48,coroner,Cameron County,0.30586693,2,0.33161554,0,0
+Texas-2019-GUAJARDO-TOMAS,1,48061,Cameron County Forensic Pathology,1,0,0,48,coroner,Cameron County,0.28877437,2,0.33161554,0,0
+Texas-2021-PERANEZ-VERONICA,1,48061,Cameron County Forensic Pathology,1,1,1,48,coroner,Cameron County,0.26323333,2,0.43354702,0,0
+Texas-2021-VENEGAS-ALFREDO,1,48061,Cameron County Forensic Pathology,1,0,0,48,coroner,Cameron County,0.26323333,2,0.43354702,0,0
+Idaho-2013-FIRKINS-ANTHONY,,16027,Canyon ID coroner,1,0,0,16,coroner,Canyon County,0.20388734,2,0.69072938,0,1
+Hawaii-2012-TORRES-AARON,0,15003,City and County of Honolulu Department of Medical Examiner,1,1,1,15,me,Honolulu County,0.096134394,1,0.30211058,0,1
+Hawaii-2013-DINNAN-STEPHEN,0,15003,City and County of Honolulu Department of Medical Examiner,0,1,1,15,me,Honolulu County,0.098364688,1,0.30211058,0,0
+Hawaii-2015-HALECK-SHELDON,0,15003,City and County of Honolulu Department of Medical Examiner,1,0,1,15,me,Honolulu County,0.096983157,1,0.30211058,0,0
+Hawaii-2016-LASIT-DWAIN,0,15003,City and County of Honolulu Department of Medical Examiner,1,0,1,15,me,Honolulu County,0.094590805,1,0.33954334,0,0
+Hawaii-2019-COLTON JR.-DANNY,0,15003,City and County of Honolulu Department of Medical Examiner,1,0,0,15,me,Honolulu County,0.082957298,1,0.33954334,0,0
+Hawaii-2019-NIXON-SHERIANNE,0,15003,City and County of Honolulu Department of Medical Examiner,1,0,1,15,me,Honolulu County,0.082957298,1,0.33954334,0,0
+Hawaii-2019-PURCELL-PETER,0,15003,City and County of Honolulu Department of Medical Examiner,0,0,1,15,me,Honolulu County,0.082957298,1,0.33954334,0,0
+Hawaii-2020-PAMAABERILLA-ISAIAH,0,15003,City and County of Honolulu Department of Medical Examiner,1,0,1,15,me,Honolulu County,0.084241293,1,0.36322099,0,0
+Arizona-2018-DAVIS-CHAD,0,4015,Clark County (Nevada) Coroner,0,1,1,4,coroner,Mohave County,0.17476295,3,0.76953143,0,0
+Washington-2018-AVERY-TRAVIS,0,53011,Clark County Medical Examiner's Office,1,0,1,53,me,Clark County,0.093047924,1,0.49914685,0,0
+Nevada-2012-YBANEZ-GLENN,0,32003,Clark County Office of the Medical Examiner/Coroner,1,0,0,32,me,Clark County,0.14246665,1,0.42571089,0,0
+Nevada-2015-COATS-JOSHUA,0,32023,Clark County Office of the Medical Examiner/Coroner,1,0,0,32,me,Nye County,0.18189591,4,0.62572545,0,0
+Nevada-2017-BROWN-TASHII,0,32003,Clark County Office of the Medical Examiner/Coroner,1,1,1,32,me,Clark County,0.14600793,1,0.44311795,0,0
+Nevada-2019-SCOTT-ROY,0,32003,Clark County Office of the Medical Examiner/Coroner,1,0,0,32,coroner,Clark County,0.13695247,1,0.44311795,0,0
+Nevada-2019-WILLIAMS-BYRON,0,32003,Clark County Office of the Medical Examiner/Coroner,1,0,0,32,me,Clark County,0.13695247,1,0.44311795,0,0
+Nevada-2020-BAXTER-DAVID,0,32003,Clark County Office of the Medical Examiner/Coroner,1,0,0,32,me,Clark County,0.13355294,1,0.45225209,0,0
+Nevada-2021-GUILLORY-MICHAEL,0,32003,Clark County Office of the Medical Examiner/Coroner,1,0,0,32,coroner,Clark County,0.13602272,1,0.45225209,0,0
+Nevada-2021-SOMMER-REINER,0,32003,Clark County Office of the Medical Examiner/Coroner,1,0,1,32,coroner,Clark County,0.13602272,1,0.45225209,0,0
+Nevada-2021-WILLIAMS-MARLON,0,32003,Clark County Office of the Medical Examiner/Coroner,1,0,0,32,me,Clark County,0.13602272,1,0.45225209,0,0
+Colorado-2013-GUTHRIE-GUY,0,8059,Clear Creek CO coroner,1,0,1,8,coroner,Jefferson County,0.08644551,1,0.47512463,0,0
+Missouri-2017-NEILL-RANCE,0,29085,Clinton MO coroner,1,0,1,,coroner,Hickory County,0.23306145,8,0.7770952,0,1
+Georgia-2017-HOWELL-DEVIN,0,13067,Cobb County Medical Examiner,0,0,0,13,me,Cobb County,0.10863229,1,0.48848525,0,1
+Arizona-2014-ROSE-MICHAEL,0,4005,Coconino County Office of the Medical Examiner,1,1,1,4,me,Coconino County,0.23790294,3,0.42038947,0,0
+Texas-2012-BEGAY-KENNETH,0,48085,Collin County Medical Examiner's Office,1,0,0,48,me,Collin County,0.075322695,1,0.66002691,0,0
+Texas-2015-BAKER-WELDON,0,48085,Collin County Medical Examiner's Office,1,0,0,48,me,Collin County,0.07558284,1,0.66002691,0,0
+Texas-2017-OLIVAS-GABRIEL,0,48439,Collin County Medical Examiner's Office,0,1,1,48,me,Tarrant County,0.13515411,1,0.54534751,0,0
+New York-2013-WOOD-RONALD,0,36103,Columbia County Coroner's Office,1,0,0,36,coroner,Suffolk County,0.064466283,1,0.45830548,0,0
+Texas-2018-BOYD-BRYAN,0,48091,Comal TX coroner,1,0,0,48,coroner,Comal County,0.082121097,1,0.76019806,0,0
+Connecticut-2012-HIRALDO-ANGEL,0,9009,Connecticut Office of the Chief Medical Examiner,1,0,0,9,me,New Haven County,0.12021358,2,0.38719779,0,0
+Connecticut-2013-MENDOZA-NOEL,0,9009,Connecticut Office of the Chief Medical Examiner,1,0,0,9,me,New Haven County,0.12389098,2,0.38719779,0,0
+Connecticut-2013-VICTOR-SETH,0,9003,Connecticut Office of the Chief Medical Examiner,0,0,1,9,me,Hartford County,0.11594121,1,0.36928716,0,0
+Connecticut-2014-GILBERT-LASHANO,0,9011,Connecticut Office of the Chief Medical Examiner,0,0,1,9,me,New London County,0.091203123,2,0.40718505,0,0
+Connecticut-2014-MALDONADO-JOSE,0,9003,Connecticut Office of the Chief Medical Examiner,0,1,1,9,me,Hartford County,0.12099379,1,0.36928716,0,0
+Connecticut-2015-RUSSO-MATTHEW,0,9003,Connecticut Office of the Chief Medical Examiner,0,1,1,9,me,Hartford County,0.11942728,1,0.36928716,0,0
+Connecticut-2015-WERBLOW-DAVID,0,9009,Connecticut Office of the Chief Medical Examiner,0,0,1,9,me,New Haven County,0.12984186,2,0.38719779,0,0
+Connecticut-2016-LANE-THOMAS,0,9009,Connecticut Office of the Chief Medical Examiner,0,1,1,9,me,New Haven County,0.12793326,2,0.43615782,1,0
+Connecticut-2019-LENETIS-ANDREW,0,9003,Connecticut Office of the Chief Medical Examiner,0,1,1,9,me,Hartford County,0.10800534,1,0.3813231,0,0
+California-2015-RUCKS-RAKEEM,0,6013,Contra Costa CA sheriff-coroner,1,0,1,6,sheriff-coroner,Contra Costa County,0.10852358,1,0.31945682,0,0
+California-2016-CELESTINE-WENDELL,0,6013,Contra Costa CA sheriff-coroner,0,0,1,6,sheriff-coroner,Contra Costa County,0.10191729,1,0.2664167,0,0
+California-2016-MARTINEZ-HUMBERTO,0,6013,Contra Costa CA sheriff-coroner,1,0,1,6,sheriff-coroner,Contra Costa County,0.10191729,1,0.2664167,0,0
+California-2019-HANKINS-STEVEN,0,6013,Contra Costa CA sheriff-coroner,1,1,1,6,sheriff-coroner,Contra Costa County,0.087030634,1,0.2664167,0,0
+California-2020-LOPEZ-JOSE,0,6013,Contra Costa CA sheriff-coroner,1,0,0,6,sheriff-coroner,Contra Costa County,0.08171808,1,0.26855248,0,1
+California-2020-QUINTO-ANGELO,0,6013,Contra Costa CA sheriff-coroner,1,0,0,6,sheriff-coroner,Contra Costa County,0.08171808,1,0.26855248,0,1
+California-2021-GOMEZ CALEL-ARTURO,0,6013,Contra Costa CA sheriff-coroner,1,1,1,6,sheriff-coroner,Contra Costa County,0.082021527,1,0.26855248,0,0
+California-2021-GUTZALENKO-IVAN,0,6013,Contra Costa CA sheriff-coroner,1,1,1,6,sheriff-coroner,Contra Costa County,0.082021527,1,0.26855248,0,0
+Illinois-2012-COLEMAN-PHILIP,0,17031,Cook County Medical Examiner,0,0,0,17,me,Cook County,0.16397662,1,0.24975921,0,0
+Illinois-2013-KOVES-MARK,0,17031,Cook County Medical Examiner,1,0,0,17,me,Cook County,0.16922282,1,0.24975921,0,1
+Illinois-2013-WRANA-JOHN,0,17031,Cook County Medical Examiner,0,1,1,17,me,Cook County,0.16922282,1,0.24975921,0,0
+Illinois-2014-FRANKLIN-DOMINIQUE,0,17031,Cook County Medical Examiner,0,1,1,17,me,Cook County,0.17222866,1,0.24975921,0,0
+Illinois-2014-ROCHA-FRANCISCO,0,17031,Cook County Medical Examiner,1,0,0,17,me,Cook County,0.17222866,1,0.24975921,0,0
+Illinois-2015-GODINEZ-HERIBERTO,0,17031,Cook County Medical Examiner,1,0,0,17,me,Cook County,0.17070945,1,0.24975921,0,0
+Illinois-2018-AGWOMOH-SOLOMON,0,17031,Cook County Medical Examiner,0,0,0,17,me,Cook County,0.15142432,1,0.21948467,0,0
+Indiana-2018-MATY-MICHAEL,0,18089,Cook County Medical Examiner,1,1,1,18,me,Lake County,0.16451561,1,0.39273474,0,1
+Illinois-2019-MARTINEZ-CARLOS,0,17031,Cook County Medical Examiner,1,0,1,17,me,Cook County,0.14365597,1,0.21948467,0,0
+Illinois-2020-HAZLETT-MICHAEL,0,17031,Cook County Medical Examiner,1,0,0,17,me,Cook County,0.13677052,1,0.24440011,0,0
+Illinois-2020-HILL-LATORIA,0,17031,Cook County Medical Examiner,1,0,0,17,me,Cook County,0.13677052,1,0.24440011,0,0
+Texas-2012-STEWART-TROY,0,48355,County of Nueces Office of the Medical Examiner,0,0,1,48,me,Nueces County,0.18405773,2,0.51685703,0,0
+Texas-2017-SALINAS-JAIME,0,48025,County of Nueces Office of the Medical Examiner,0,1,1,48,me,Bee County,0.19715829,6,0.57938445,0,0
+Texas-2018-CONTRERAS-GERARDO,0,48355,County of Nueces Office of the Medical Examiner,1,1,1,48,me,Nueces County,0.16358697,2,0.50784284,0,0
+California-2014-TRAN-TRACEY,0,6085,County of Santa Clara Medical Examiner/Coroner,1,0,0,6,me,Santa Clara County,0.099294014,1,0.27945325,0,0
+California-2018-JUAREZ-STEVEN,0,6085,County of Santa Clara Medical Examiner/Coroner,1,0,1,6,me,Santa Clara County,0.079202905,1,0.22059985,0,0
+California-2018-SPENCER-MARK,0,6085,County of Santa Clara Medical Examiner/Coroner,1,0,1,6,me,Santa Clara County,0.079202905,1,0.22059985,0,0
+Ohio-2013-WILLIAMS JR.-REGINALD,0,39035,Cuyahoga County Medical Examiner,1,0,0,39,me,Cuyahoga County,0.18334028,1,0.29888082,0,0
+Ohio-2014-ANDERSON-TANISHA,0,39035,Cuyahoga County Medical Examiner,0,0,1,39,me,Cuyahoga County,0.18537456,1,0.29888082,0,0
+Ohio-2014-DAVIS-SAMUEL,0,39035,Cuyahoga County Medical Examiner,1,0,0,39,me,Cuyahoga County,0.18537456,1,0.29888082,0,0
+Missouri-2019-HUNTER-NATHAN,1,29059,Dallas County MO coroner,1,1,1,29,coroner,Dallas County,0.13350433,2,0.8225199,0,0
+Wisconsin-2019-GARCIA-MENDEZ-JAVIER,1,55009,Dane County Medical Examiner,0,0,1,55,me,Brown County,0.097708523,2,0.55737662,0,0
+Wisconsin-2020-THOMSON-JASON,1,55009,Dane County Medical Examiner,0,0,1,55,me,Brown County,0.096684426,2,0.53663832,0,0
+Pennsylvania-2020-GAMRAK-ADAM,1,42107,Dauphin County Coroners' office,1,0,0,42,me,Schuylkill County,0.1313244,4,0.70218974,0,1
+Texas-2020-BRYANT-MARTECE,0,48115,Dawson TX coroner,1,0,0,48,coroner,Dawson County,0.22639281,6,0.7850492,0,0
+Georgia-2015-ROBINSON-TROY,0,13121,DeKalb County Medical Examiner,0,1,1,13,me,Fulton County,0.17558576,1,0.34927687,0,0
+Georgia-2016-DONEGAN-COREY,0,13089,DeKalb County Medical Examiner,1,0,0,13,me,DeKalb County,0.18993378,1,0.16995226,1,1
+Georgia-2019-WEST-JAMON,0,13089,DeKalb County Medical Examiner,0,0,1,13,me,DeKalb County,0.15118185,1,0.16995226,0,1
+Georgia-2020-MURRAY-MICHAEL,0,13089,DeKalb County Medical Examiner,1,0,0,13,me,DeKalb County,0.1439386,1,0.16995226,0,1
+Indiana-2019-CRITTLE-DION,0,18035,Delaware IN coroner,1,0,0,18,coroner,Delaware County,0.21865661,3,0.5720247,0,0
+Delaware-2013-HAYMAN-DEOMAIN,0,10003,Delaware state ME,,,,10,me,New Castle County,0.10741611,1,0.32712877,0,
+Delaware-2016-WATERS-LIONEL,0,10005,Delaware state ME,1,1,1,10,me,Sussex County,0.12886932,4,0.61417055,0,0
+Florida-2015-KAAFI-JOHN,0,12115,District 12 Medical Examiner's Office,1,0,0,12,me,Sarasota County,0.10971904,2,0.53741068,0,0
+Florida-2016-ERDMAN-CHRISTOPHER,0,12081,District 12 Medical Examiner's Office,1,0,0,12,me,Manatee County,0.14341049,2,0.5887,0,0
+Florida-2018-MORRIS-EDDIE,0,12073,District 2 Medical Examiner's Office,1,0,0,12,me,Leon County,0.20360216,2,0.36891747,0,1
+Florida-2018-PARKER-AARON,0,12073,District 2 Medical Examiner's Office,1,0,0,12,me,Leon County,0.20360216,2,0.36891747,0,1
+Florida-2014-MOSTILLER-LONNIE,0,12021,District 20 Medical Examiner,1,0,0,12,me,Collier County,0.14356847,2,0.65120298,0,0
+Florida-2017-REWIS-DEVAN,0,12021,District 20 Medical Examiner,1,0,0,12,me,Collier County,0.12846823,2,0.63314074,0,0
+Florida-2016-TRUCKENMILLER-WILLARD,0,12071,District 21 Medical Examiner's Office,1,0,0,12,me,Lee County,0.15539211,2,0.60529482,0,1
+Florida-2014-GRIFFIS-TIMOTHY,0,12023,District 4 Medical Examiner's Office (Jacksonville),1,0,0,12,me,Columbia County,0.1996516,4,0.68532223,0,1
+Florida-2016-WHITE-MARCUS,0,12031,District 4 Medical Examiner's Office (Jacksonville),1,0,0,12,me,Duval County,0.16618393,1,0.50714946,0,0
+Florida-2020-EVANS-CHARLES,0,12017,District 5 and 24 Medical Examiner's Office,1,0,0,12,me,Citrus County,0.14969733,3,0.70693606,0,0
+Florida-2012-CURTIS-LORENZO,0,12095,District 9 Medical Examiner's Office,1,0,0,12,me,Orange County,0.16264246,1,0.40797698,0,0
+Florida-2013-ALTOMARE JR.-GERALD,0,12097,District 9 Medical Examiner's Office,1,0,0,12,me,Osceola County,0.17874765,1,0.37644091,0,0
+Florida-2015-GRACIA-MAX,0,12095,District 9 Medical Examiner's Office,0,1,1,12,me,Orange County,0.1775589,1,0.40797698,0,0
+Florida-2017-MORRIS-LARRY,0,12095,District 9 Medical Examiner's Office,1,0,0,12,me,Orange County,0.16661255,1,0.3717621,0,0
+Florida-2018-ANDERSON-DESMOND,0,12095,District 9 Medical Examiner's Office,1,0,0,12,me,Orange County,0.16083206,1,0.3717621,0,1
+Florida-2019-CELESTIN-JEAN,0,12095,District 9 Medical Examiner's Office,0,0,1,12,me,Orange County,0.14850961,1,0.3717621,0,0
+District of Columbia-2012-CHAMBERS-ANTHONY,0,11001,District of Columbia Office of the Chief Medical Examiner,,,,11,me,District of Columbia,0.18459103,1,0.074123509,0,
+District of Columbia-2012-DAVIS-EDUARDO,0,11001,District of Columbia Office of the Chief Medical Examiner,,,,11,me,District of Columbia,0.18459103,1,0.074123509,0,
+District of Columbia-2018-CARTER-PAMELA,0,11001,District of Columbia Office of the Chief Medical Examiner,,,,11,me,District of Columbia,0.16822089,1,0.043048117,0,
+District of Columbia-2019-MARTIN-ERIC,0,11001,District of Columbia Office of the Chief Medical Examiner,,,,11,me,District of Columbia,0.16241306,1,0.043048117,0,
+District of Columbia-2021-BIGSBY-VINCENT,0,11001,District of Columbia Office of the Chief Medical Examiner,,,,11,me,District of Columbia,0.15441255,1,0.055330463,0,
+Florida-2012-BARNES-JAMES,0,12103,District Six Medical Examiner's Office,1,0,0,12,me,Pinellas County,0.13082136,1,0.47143218,0,1
+Florida-2013-SHIRLAW-WILLIAM,0,12101,District Six Medical Examiner's Office,,,,12,me,Pasco County,0.13875352,1,0.53361338,0,
+Florida-2016-ROBINSON-TORREY,0,12101,District Six Medical Examiner's Office,1,0,0,12,me,Pasco County,0.13555337,1,0.61186343,0,1
+Florida-2017-DOVE-JOSHUA,0,12103,District Six Medical Examiner's Office,1,0,1,12,me,Pinellas County,0.13682142,1,0.50581515,0,0
+Florida-2017-FRANCIS-MUNDRAE,0,12103,District Six Medical Examiner's Office,0,0,0,12,me,Pinellas County,0.13682142,1,0.50581515,0,1
+Florida-2019-MORALES-VELASQUEZ-BAUDILIO,0,12103,District Six Medical Examiner's Office,0,1,1,12,me,Pinellas County,0.12221455,1,0.50581515,0,0
+Missouri-2020-AUMICK-SHANE,0,29067,Douglas MO coroner,0,0,0,29,coroner,Douglas County,0.15079848,8,0.85305178,0,1
+Nebraska-2015-ENNIS-PATRICK,,31055,Douglas NE coroner,1,0,0,31,coroner,Douglas County,0.14595799,2,0.5153954,0,1
+Nebraska-2017-BEAR HEELS-ZACHARY,0,31055,Douglas NE coroner,0,0,1,31,coroner,Douglas County,0.13498828,2,0.4871076,0,1
+Washington-2013-NALLS-JASON,0,53017,Douglas WA coroner,1,0,0,53,coroner,Douglas County,0.15841378,3,0.64594615,0,1
+Louisiana-2012-DUKES-DEREK,0,22033,East Baton Rouge Parish Coroner's Office,,,,22,coroner,East Baton Rouge Parish,0.18536802,2,0.47341856,0,
+Louisiana-2015-BAJOIE-KEVIN,0,22033,East Baton Rouge Parish Coroner's Office,1,0,0,22,coroner,East Baton Rouge Parish,0.19598846,2,0.47341856,0,0
+Louisiana-2016-O'ROURKE-PATRICK,0,22063,East Baton Rouge Parish Coroner's Office,1,0,1,22,coroner,Livingston Parish,0.14481631,2,0.87538999,0,0
+Texas-2020-PRITCHARD-JESSE,0,48495,Ector County Office of the Medical Examiner,1,0,0,48,me,Winkler County,0.12020726,6,0.83041215,0,0
+Colorado-2016-THOMPSON-JEREMY,0,8041,El Paso CO coroner,1,0,0,8,coroner,El Paso County,0.11282972,2,0.62397039,0,1
+Colorado-2018-LACOUR-JERICA,0,8041,El Paso CO coroner,1,0,0,8,coroner,El Paso County,0.10910886,2,0.62397039,0,0
+Colorado-2018-MELVIN-JEFFREY,0,8041,El Paso CO coroner,0,0,1,8,coroner,El Paso County,0.10910886,2,0.62397039,0,0
+Colorado-2018-POER-CHRISTOPHER,0,8039,El Paso CO coroner,1,0,1,8,coroner,Elbert County,0.044396449,1,0.78879976,0,0
+Colorado-2020-BARR-HUNTER,0,8041,El Paso CO coroner,1,0,0,8,coroner,El Paso County,0.098385021,2,0.55604506,0,0
+Colorado-2020-BURNETT-CHAD,0,8041,El Paso CO coroner,0,0,1,8,coroner,El Paso County,0.098385021,2,0.55604506,0,0
+Texas-2012-SALAS-JESUS,0,48141,El Paso County Medical Examiner,0,1,1,48,me,El Paso County,0.24039918,2,0.33597487,0,0
+Texas-2013-GOMEZ-FERNANDO,0,48141,El Paso County Medical Examiner,1,0,0,48,me,El Paso County,0.23318741,2,0.33597487,0,0
+Texas-2015-RAMIREZ-DANIEL,0,48141,El Paso County Medical Examiner,0,0,0,48,me,El Paso County,0.22757995,2,0.33597487,1,0
+Texas-2020-LARA-RAY,0,48141,El Paso County Medical Examiner,1,0,0,48,me,El Paso County,0.1948601,2,0.32131359,0,0
+Texas-2021-DIAZ-DANIEL,0,48141,El Paso County Medical Examiner,1,0,1,48,me,El Paso County,0.19273514,2,0.32131359,0,0
+New York-2013-BAKER JR.-CHARLES,1,36013,Erie County Medical Examiner's Office,1,0,0,36,coroner,Chautauqua County,0.19068171,4,0.51929212,0,0
+New York-2017-DAVIS III-WARDEL,0,36029,Erie County Medical Examiner's Office,0,0,0,36,me,Erie County,0.14890064,1,0.46637475,0,0
+New York-2018-DEJESUS-FRANCISCO,0,36029,Erie County Medical Examiner's Office,1,0,0,36,me,Erie County,0.14543746,1,0.46637475,0,0
+New York-2019-DAVIS JR.-WAYNE,1,36063,Erie County Medical Examiner's Office,1,0,0,36,coroner,Niagara County,0.13455732,1,0.59370428,0,0
+New York-2019-HODGE-TROY,1,36063,Erie County Medical Examiner's Office,1,0,0,36,coroner,Niagara County,0.13455732,1,0.59370428,0,0
+Wisconsin-2017-SMITH-THOMAS,1,55085,Fond du Lac County Medical Examiner,0,0,0,55,me,Oneida County,0.089864612,7,0.5992285,0,0
+Louisiana-2014-HENRY-RAYSHUNE,1,22015,Forensic Autopsy & Consulting Services,0,1,1,22,coroner,Bossier Parish,0.13589799,2,0.72976804,0,0
+Texas-2013-JONES-DUSTIN,1,48241,Forensic Medical of Texas,1,0,0,48,coroner,Jasper County,0.17803992,6,0.74417043,0,0
+Texas-2013-SLADE-MARCUS,1,48203,Forensic Medical of Texas,1,0,0,48,coroner,Harrison County,0.1596349,2,0.67436844,0,0
+Texas-2015-JENKINS-KEITH,1,48337,Forensic Medical of Texas,1,0,0,48,coroner,Montague County,0.15013041,6,0.85440314,0,0
+Texas-2015-ROSS-TONY,1,48223,Forensic Medical of Texas,1,0,1,48,coroner,Hopkins County,0.19856459,6,0.77983034,0,0
+Texas-2016-CASSEL-MICHAEL,0,48457,Forensic Medical of Texas,1,0,0,48,me,Tyler County,0.15702927,8,0.84146339,0,0
+Texas-2016-DELACRUZ-MANUEL,0,48245,Forensic Medical of Texas,0,0,0,48,me,Jefferson County,0.20009124,2,0.50245589,0,0
+Texas-2021-HURT-LARRY,1,48203,Forensic Medical of Texas,1,0,0,48,coroner,Harrison County,0.17024305,2,0.73078233,0,0
+Ohio-2017-THOMAS-JARON,0,39049,Franklin County Coroner's office,1,0,0,39,coroner,Franklin County,0.16656713,1,0.36207175,0,1
+Ohio-2021-WALSH-ALAN,0,39131,Franklin County Coroner's office,1,0,0,39,coroner,Pike County,0.19361337,9,0.74647427,0,0
+Washington-2018-ANDERSON-WERNER,0,53021,Franklin WA coroner,1,0,0,53,me,Franklin County,0.1573471,2,0.59777296,0,0
+California-2017-PEREZ-JOSEPH,0,6019,Fresno CA sheriff-coroner,1,1,1,6,sheriff-coroner,Fresno County,0.25435659,1,0.46742153,0,0
+California-2018-FARIAS-DAVID,0,6019,Fresno CA sheriff-coroner,1,0,0,6,sheriff-coroner,Fresno County,0.24127904,1,0.46742153,0,0
+California-2018-KANE-LORIN,0,6019,Fresno CA sheriff-coroner,0,0,0,6,sheriff-coroner,Fresno County,0.24127904,1,0.46742153,0,0
+California-2018-WORSHAM-DAVID,0,6019,Fresno CA sheriff-coroner,0,0,1,6,sheriff-coroner,Fresno County,0.24127904,1,0.46742153,0,0
+Georgia-2012-LEE-RAYMOND,0,13121,Fulton County Medical Examiner,1,0,0,13,me,Fulton County,0.16789691,1,0.34927687,0,1
+Georgia-2014-TOWNS-GREGORY,0,13121,Fulton County Medical Examiner,0,0,1,13,me,Fulton County,0.17827214,1,0.34927687,0,0
+Georgia-2019-MITCHELL-ANTHONY,0,13121,Fulton County Medical Examiner,0,1,1,13,me,Fulton County,0.14366028,1,0.28392804,0,0
+Texas-2012-ALLEN-RAYMOND,0,48167,Galveston County Medical Examiner's Office,1,0,1,48,me,Galveston County,0.12806481,1,0.63607812,0,1
+Texas-2012-PEDERSEN-DAVID,0,48167,Galveston County Medical Examiner's Office,1,0,0,48,me,Galveston County,0.12806481,1,0.63607812,0,0
+Texas-2017-ZAMORA-JERONIMO,0,48167,Galveston County Medical Examiner's Office,1,0,0,48,me,Galveston County,0.13910994,1,0.62817359,0,1
+Michigan-2016-RICHARDSON-ANTONIO,0,26049,Genesee County Medical Examiner,1,0,0,26,me,Genesee County,0.20912537,2,0.4503119,0,1
+Michigan-2020-MCNEELY-ROBBIN,0,26049,Genesee County Medical Examiner,0,0,0,26,me,Genesee County,0.18041709,2,0.4526006,0,0
+Georgia-2012-GORE-TERRY,1,13217,Georgia Bureau of Investigation,1,0,0,13,coroner,Newton County,0.14642501,1,0.48985595,0,0
+Georgia-2012-SOTO-GABRIEL,1,13063,Georgia Bureau of Investigation,1,0,0,13,me,Clayton County,0.21484527,1,0.14809239,0,0
+Georgia-2013-HARVEY-GEORGE,1,13245,Georgia Bureau of Investigation,1,0,0,13,coroner,Richmond County,0.25068352,2,0.32963458,0,0
+Georgia-2014-LEE-FRANKLIN,1,13131,Georgia Bureau of Investigation,0,0,0,13,coroner,Grady County,0.31119782,6,0.63405758,0,0
+Georgia-2014-WILLIAMS-JAMES,1,13097,Georgia Bureau of Investigation,0,0,0,13,coroner,Douglas County,0.16222848,1,0.4798837,0,0
+Georgia-2015-DYKSMA-NICHOLAS,1,13215,Georgia Bureau of Investigation,1,1,1,13,coroner,Muscogee County,0.20462121,2,0.39253455,0,0
+Georgia-2015-MANN-GEORGE,1,13089,Georgia Bureau of Investigation,1,0,0,13,me,DeKalb County,0.19302528,1,0.21278451,0,0
+Georgia-2015-MILES-TODD,1,13015,Georgia Bureau of Investigation,1,0,0,13,coroner,Bartow County,0.15763827,1,0.76196414,0,1
+Georgia-2015-ROBERTS-ASKARI,1,13115,Georgia Bureau of Investigation,1,0,0,13,coroner,Floyd County,0.212915,3,0.70222098,0,0
+Georgia-2015-SHERMAN-CHASE,1,13121,Georgia Bureau of Investigation,0,1,1,13,coroner,Fulton County,0.17558576,1,0.34927687,0,0
+Georgia-2016-CLARK-TERRELL,1,13321,Georgia Bureau of Investigation,1,0,0,13,coroner,Worth County,0.1844091,3,0.75281447,0,0
+Georgia-2016-WEEMS-JACKIE,1,13151,Georgia Bureau of Investigation,1,0,0,13,coroner,Henry County,0.12080193,1,0.47738069,0,1
+Georgia-2017-ARREOLA-HECTOR,1,13215,Georgia Bureau of Investigation,1,0,1,13,coroner,Muscogee County,0.21657383,2,0.40366918,0,0
+Georgia-2017-EALEY-TENNIEL,1,13245,Georgia Bureau of Investigation,1,0,0,13,coroner,Richmond County,0.24240348,2,0.33382463,0,1
+Georgia-2017-MARTIN-EURIE,1,13303,Georgia Bureau of Investigation,,,,13,coroner,Washington County,0.27075773,7,0.49694574,0,
+Georgia-2017-TANNER-DOUGLAS,1,13035,Georgia Bureau of Investigation,1,0,1,13,coroner,Butts County,0.23544133,1,0.72358072,0,0
+Georgia-2017-THOMPSON-JAMES,1,13285,Georgia Bureau of Investigation,1,1,1,13,coroner,Troup County,0.21334477,4,0.61854458,0,0
+Georgia-2018-GARRETT-CHARLES,1,13051,Georgia Bureau of Investigation,1,0,0,13,coroner,Chatham County,0.15757228,2,0.42312324,0,0
+Georgia-2019-MCBRAYER-JAMES,1,13277,Georgia Bureau of Investigation,1,0,1,13,coroner,Tift County,0.23338008,5,0.68796211,0,1
+Georgia-2019-RODRIGUEZ-FERNANDO,1,13151,Georgia Bureau of Investigation,0,1,1,13,coroner,Henry County,0.085174993,1,0.47738069,0,0
+Georgia-2020-MUSHENSKY-JEREMY,1,13267,Georgia Bureau of Investigation,1,0,1,13,coroner,Tattnall County,0.21710902,8,0.75195515,0,0
+Georgia-2021-JONES-JERMAINE,1,13245,Georgia Bureau of Investigation,0,1,1,13,coroner,Richmond County,0.22078434,2,0.33382463,0,0
+New Jersey-2012-NORMAN-SHERRON,0,34007,"Glouchester, Camden & Salem Medical Examiner's Office",1,0,0,34,me,Camden County,0.12139069,1,0.31133097,0,0
+New Jersey-2015-WHITE-PHILLIP,0,34011,"Glouchester, Camden & Salem Medical Examiner's Office",1,0,0,34,me,Cumberland County,0.17851327,3,0.37757024,0,0
+Washington-2016-PALMER-SARAH,0,53027,Grays Harbor WA coroner,0,0,0,53,coroner,Grays Harbor County,0.16567186,4,0.5392341,0,1
+Missouri-2019-MCCURDY-WALLY,0,29077,Greene County Medical Examiner's Office,1,0,0,29,me,Greene County,0.16404724,2,0.64618301,0,0
+Ohio-2012-MCGINNIS-COREY,0,39061,Hamilton OH coroner,0,0,0,39,coroner,Hamilton County,0.17101665,1,0.4678151,0,0
+Ohio-2013-ROELL SR.-GARY,0,39061,Hamilton OH coroner,0,0,0,39,coroner,Hamilton County,0.17956479,1,0.4678151,0,1
+Ohio-2015-CARNEY-JAMES,0,39061,Hamilton OH coroner,1,0,0,39,coroner,Hamilton County,0.18279645,1,0.4678151,0,0
+Indiana-2017-WIGGINGTON-DOUGLAS,0,18059,Hancock IN coroner,1,0,0,18,coroner,Hancock County,0.069911726,1,0.73794806,0,0
+Texas-2012-CHABOT-DENIS,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.17873517,1,0.49958614,0,0
+Texas-2012-DORTCH JR.-JAMES,0,48039,Harris County Institute of Forensic Sciences,1,0,0,48,me,Brazoria County,0.10942861,1,0.67306215,0,0
+Texas-2012-FALTESEK-JOE,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.17873517,1,0.49958614,0,0
+Texas-2012-GARCIA-RAMIRO,0,48201,Harris County Institute of Forensic Sciences,1,1,1,48,me,Harris County,0.17873517,1,0.49958614,0,0
+Texas-2012-SAUCEDA-JOSE,0,48201,Harris County Institute of Forensic Sciences,1,0,1,48,me,Harris County,0.17873517,1,0.49958614,0,0
+Texas-2013-BALTAZAR-MANUEL,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.18504164,1,0.49958614,0,0
+Texas-2013-ELIZONDO-HECTOR,0,48201,Harris County Institute of Forensic Sciences,1,0,1,48,me,Harris County,0.18504164,1,0.49958614,0,0
+Texas-2013-LEE-ERIK,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.18504164,1,0.49958614,0,0
+Texas-2014-GREGOIRE-OLIVER,1,48071,Harris County Institute of Forensic Sciences,0,0,0,48,coroner,Chambers County,0.1091266,1,0.80860257,0,0
+Texas-2014-JEFFERSON-BRANNDON,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.18429807,1,0.49958614,0,0
+Texas-2014-LAROCHELLE-SHAWN,1,48201,Harris County Institute of Forensic Sciences,1,0,0,48,coroner,Harris County,0.18429807,1,0.49958614,0,0
+Texas-2014-LEWIS-JASON,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.18429807,1,0.49958614,0,0
+Texas-2014-PARKER-WINFRED,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.18429807,1,0.49958614,0,0
+Texas-2015-COOPER-WILLIAM,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.17962229,1,0.49958614,0,0
+Texas-2015-DAVIS-BILLY,0,48201,Harris County Institute of Forensic Sciences,0,0,1,48,me,Harris County,0.17962229,1,0.49958614,0,0
+Texas-2015-FURR-EARNEST,0,48201,Harris County Institute of Forensic Sciences,0,0,0,48,me,Harris County,0.17962229,1,0.49958614,0,0
+Texas-2015-JAMES-TERESA,0,48201,Harris County Institute of Forensic Sciences,0,0,0,48,me,Harris County,0.17962229,1,0.49958614,0,1
+Texas-2016-KING-MICHAEL,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.1739334,1,0.43541631,0,0
+Texas-2016-THOMAS-DARRALL,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.1739334,1,0.43541631,0,0
+Texas-2017-MATHEWS-CHRISTOPHER,0,48201,Harris County Institute of Forensic Sciences,1,1,1,48,me,Harris County,0.16786878,1,0.43541631,0,0
+Texas-2017-MIRANDA-ORLANDO,0,48201,Harris County Institute of Forensic Sciences,1,0,1,48,me,Harris County,0.16786878,1,0.43541631,0,0
+Texas-2017-SMITH-WILLIE,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.16786878,1,0.43541631,0,0
+Texas-2017-TAYLOR-RODERICK,0,48201,Harris County Institute of Forensic Sciences,1,0,1,48,me,Harris County,0.16786878,1,0.43541631,0,0
+Texas-2017-TREMBLE-GARRY,0,48201,Harris County Institute of Forensic Sciences,1,1,1,48,me,Harris County,0.16786878,1,0.43541631,0,0
+Texas-2018-BRAWLEY-JASON,0,48201,Harris County Institute of Forensic Sciences,1,0,1,48,me,Harris County,0.16219616,1,0.43541631,0,0
+Texas-2018-GRIFFIN-KENT,0,48201,Harris County Institute of Forensic Sciences,1,1,1,48,me,Harris County,0.16219616,1,0.43541631,0,0
+Texas-2018-LAWRENCE-JEREMY,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.16219616,1,0.43541631,0,0
+Texas-2018-MARTINEZ-JUAN,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.16219616,1,0.43541631,0,0
+Texas-2018-VAZQUEZ-RICARDO,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.16219616,1,0.43541631,0,0
+Texas-2019-GUILBEAU-GREGORY,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.15708874,1,0.43541631,0,0
+Texas-2019-KIESLEHORST-SHAUN,0,48201,Harris County Institute of Forensic Sciences,1,1,1,48,me,Harris County,0.15708874,1,0.43541631,0,0
+Texas-2019-WEBB-BRAD,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.15708874,1,0.43541631,0,0
+Texas-2019-YARBER-GREGORY,0,48201,Harris County Institute of Forensic Sciences,1,0,1,48,me,Harris County,0.15708874,1,0.43541631,0,0
+Texas-2020-FORD-DONALD,0,48201,Harris County Institute of Forensic Sciences,1,0,1,48,me,Harris County,0.15606467,1,0.43280211,0,0
+Texas-2020-KISSINGER-PATRICK,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.15606467,1,0.43280211,0,0
+Texas-2020-MEJIAS-ALFREDITO,0,48201,Harris County Institute of Forensic Sciences,1,0,1,48,me,Harris County,0.15606467,1,0.43280211,0,0
+Texas-2020-PULIDO-OSCAR,0,48201,Harris County Institute of Forensic Sciences,1,0,1,48,me,Harris County,0.15606467,1,0.43280211,0,0
+Texas-2020-TAYLOR-SAMUEL,0,48201,Harris County Institute of Forensic Sciences,1,1,1,48,me,Harris County,0.15606467,1,0.43280211,0,0
+Texas-2021-ANDERSON-KENNETH,0,48201,Harris County Institute of Forensic Sciences,1,0,1,48,me,Harris County,0.15623176,1,0.43280211,0,0
+Texas-2021-HIPOLITO-RICHARD,0,48201,Harris County Institute of Forensic Sciences,1,0,0,48,me,Harris County,0.15623176,1,0.43280211,0,0
+Texas-2021-SONNIER-JERMAINE,0,48201,Harris County Institute of Forensic Sciences,1,0,1,48,me,Harris County,0.15623176,1,0.43280211,0,0
+Texas-2021-VILLARREAL-GENARO,0,48201,Harris County Institute of Forensic Sciences,1,0,1,48,me,Harris County,0.15623176,1,0.43280211,0,0
+Hawaii-2014-HATORI-RANDALL,0,15001,Hawaii HI sheriff-coroner,1,0,0,15,sheriff-coroner,Hawaii County,0.19229902,5,0.23803991,0,0
+Hawaii-2016-WATSON-JONATHAN,0,15001,Hawaii HI sheriff-coroner,1,0,1,15,sheriff-coroner,Hawaii County,0.18729004,5,0.29783866,1,0
+Hawaii-2018-BURTON-VINCENT,0,15001,Hawaii HI sheriff-coroner,0,1,1,15,sheriff-coroner,Hawaii County,0.16613899,5,0.29783866,0,0
+Minnesota-2012-PROM-MARK,0,27109,Hennepin County Medical Examiner's Office,1,1,1,27,me,Olmsted County,0.084553935,3,0.48354995,0,0
+Minnesota-2013-DIAO-ZHENG,0,27053,Hennepin County Medical Examiner's Office,0,1,1,27,me,Hennepin County,0.12781204,1,0.36152577,0,1
+Minnesota-2015-KHOTTAVONGSA-SINTHANOUXAY,0,27053,Hennepin County Medical Examiner's Office,0,1,1,27,me,Hennepin County,0.12453315,1,0.36152577,0,0
+Minnesota-2019-LUCAS-SETH,0,27053,Hennepin County Medical Examiner's Office,1,0,0,27,me,Hennepin County,0.1044717,1,0.30877954,0,0
+Minnesota-2020-FLOYD-GEORGE,0,27053,Hennepin County Medical Examiner's Office,1,1,1,27,me,Hennepin County,0.10150831,1,0.278871,0,0
+Texas-2015-CHARLES-JEAN-YVES,0,48215,Hidalgo County Forensic Center,0,0,0,48,coroner,Hidalgo County,0.34248763,2,0.28922471,0,0
+Texas-2016-CARDENAS-INOCENCIO,,48215,Hidalgo County Forensic Center,,,,48,coroner,Hidalgo County,0.32757714,2,0.29048496,0,
+Texas-2017-LUGO-HUGO,0,48215,Hidalgo County Forensic Center,1,0,1,48,coroner,Hidalgo County,0.31845048,2,0.29048496,0,0
+Texas-2017-REYES-CHRISTOPHER,0,48215,Hidalgo County Forensic Center,1,1,1,48,coroner,Hidalgo County,0.31845048,2,0.29048496,0,0
+Texas-2020-GONZALEZ ZUNIGA-JORGE,1,48215,Hidalgo County Forensic Center,,,,48,coroner,Hidalgo County,0.28439787,2,0.41388312,0,
+Texas-2020-PEREZ-ELIUD,0,48215,Hidalgo County Forensic Center,1,0,1,48,coroner,Hidalgo County,0.28439787,2,0.41388312,0,0
+Texas-2021-CORDOVA-RICARDO,1,48215,Hidalgo County Forensic Center,1,0,0,48,coroner,Hidalgo County,0.28143325,2,0.41388312,0,0
+Texas-2021-GARZA-CARLOS,1,48215,Hidalgo County Forensic Center,1,0,0,48,coroner,Hidalgo County,0.28143325,2,0.41388312,0,1
+Florida-2014-GREEN-ARTHUR,0,12057,Hillsborough County Medical Examiner Department (District 13),0,0,0,12,me,Hillsborough County,0.17156653,1,0.46619695,0,0
+Florida-2016-DEGRAW-DONALD,0,12103,Hillsborough County Medical Examiner Department (District 13),1,0,0,12,me,Pinellas County,0.14133795,1,0.50581515,0,1
+Florida-2016-HAMILTON-NATHAN,0,12057,Hillsborough County Medical Examiner Department (District 13),1,0,0,12,me,Hillsborough County,0.16393803,1,0.46431071,0,0
+Florida-2016-SELLINGER-JOHN,0,12101,Hillsborough County Medical Examiner Department (District 13),0,0,0,12,me,Pasco County,0.13555337,1,0.61186343,0,0
+Texas-2019-HERNANDEZ-MICHAEL,0,48227,Howard TX coroner,1,0,0,48,coroner,Howard County,0.17334813,4,0.78946114,0,1
+California-2014-YANCY JR.-TOMMY,0,6025,Imperial CA sheriff-coroner,0,0,1,6,sheriff-coroner,Imperial County,0.23397453,3,0.33700842,0,0
+Iowa-2012-SALDIVAR-PAUL,0,19113,Iowa State Medical Examiner,1,1,1,19,me,Linn County,0.099860325,2,0.40981731,0,0
+Iowa-2013-MARTINEZ-THOMAS,0,19103,Iowa State Medical Examiner,1,1,1,19,me,Johnson County,0.17703752,3,0.3186757,0,0
+Iowa-2013-ZUBROD-MICHAEL,0,19195,Iowa State Medical Examiner,1,0,1,19,me,Worth County,0.11537943,9,0.42598924,0,0
+Iowa-2017-CUPPS-CHAD,0,19061,Iowa State Medical Examiner,1,0,0,19,me,Dubuque County,0.11914054,3,0.50658607,0,0
+Iowa-2019-EDWARDS-DREW,0,19097,Iowa State Medical Examiner,1,0,1,19,me,Jackson County,0.13094489,6,0.60283613,0,0
+Iowa-2020-KRUZIC-JASON,0,19169,Iowa State Medical Examiner,1,0,1,19,me,Story County,0.19999304,3,0.43080124,0,0
+Missouri-2013-ELLIS-KEVIN,0,29095,Jackson County Medical Examiner,1,0,0,29,me,Jackson County,0.17366913,1,0.54349142,0,1
+Missouri-2014-WILLIAMS-EUGENE,0,29095,Jackson County Medical Examiner,1,0,1,29,me,Jackson County,0.17481408,1,0.54349142,0,0
+Missouri-2017-PRINCE-BRIAN,0,29095,Jackson County Medical Examiner,0,1,1,29,me,Jackson County,0.15941268,1,0.56241018,0,0
+Colorado-2015-SARNELLA-DEO,0,8059,Jefferson CO coroner,1,0,0,8,coroner,Jefferson County,0.08545059,1,0.47512463,0,0
+Louisiana-2012-BONVILLAIN-RANDOLPH,0,22111,Jefferson Parish Forensic Center,1,0,0,22,sheriff-coroner,Union Parish,0.25238886,3,0.71088755,0,0
+Louisiana-2013-EDWARDS-ERVIN,0,22121,Jefferson Parish Forensic Center,1,0,1,22,coroner,West Baton Rouge Parish,0.1459904,2,0.54875535,0,0
+Louisiana-2014-ADAMS-JOSHUA,0,22051,Jefferson Parish Forensic Center,1,0,0,22,sheriff-coroner,Jefferson Parish,0.16843882,1,0.59296787,0,0
+Louisiana-2017-JOSEPH-KENDOLE,0,22051,Jefferson Parish Forensic Center,1,0,1,22,sheriff-coroner,Jefferson Parish,0.16317064,1,0.5767746,0,0
+Louisiana-2018-BOYLES-AUSTIN,0,22051,Jefferson Parish Forensic Center,1,0,0,22,coroner,Jefferson Parish,0.15461364,1,0.5767746,0,0
+Louisiana-2018-ROBINSON-KEEVEN,0,22051,Jefferson Parish Forensic Center,0,1,1,22,sheriff-coroner,Jefferson Parish,0.15461364,1,0.5767746,0,0
+Louisiana-2020-PARSA-ERIC,0,22051,Jefferson Parish Forensic Center,0,0,0,22,sheriff-coroner,Jefferson Parish,0.15161251,1,0.55637884,0,0
+Iowa-2015-HAYS-BRIAN,0,19139,Johnson County Medical Examiner,1,0,0,19,me,Muscatine County,0.12386965,4,0.41906521,0,1
+Kansas-2017-CARVALHO-MARCELO,0,20091,Johnson KS coroner,1,0,0,20,coroner,Johnson County,0.056299128,1,0.51428509,0,0
+California-2013-LEDESMA JR.-RONNIE,0,6029,Kern CA sheriff-coroner,1,0,0,6,sheriff-coroner,Kern County,0.22930177,2,0.58588791,0,0
+California-2013-SILVA-DAVID,0,6029,Kern CA sheriff-coroner,1,0,0,6,sheriff-coroner,Kern County,0.22930177,2,0.58588791,0,0
+California-2015-LE MON-MICHAEL,0,6029,Kern CA sheriff-coroner,0,0,0,6,sheriff-coroner,Kern County,0.23464061,2,0.58588791,0,1
+California-2016-BARRIO-JONATHAN,1,6071,Kern CA sheriff-coroner,1,0,1,6,sheriff-coroner,San Bernardino County,0.19123636,1,0.44314975,0,0
+California-2016-VILORIO-JOSE,0,6029,Kern CA sheriff-coroner,0,1,1,6,sheriff-coroner,Kern County,0.2314788,2,0.56767118,0,0
+California-2017-LOVETT-NICHOLAS,0,6029,Kern CA sheriff-coroner,1,0,0,6,sheriff-coroner,Kern County,0.22563633,2,0.56767118,0,0
+California-2019-GONZALEZ-JASON,0,6029,Kern CA sheriff-coroner,1,1,1,6,sheriff-coroner,Kern County,0.20997614,2,0.56767118,0,0
+California-2020-WATERS-ROBERT,0,6029,Kern CA sheriff-coroner,1,0,0,6,sheriff-coroner,Kern County,0.2042847,2,0.55223769,0,0
+California-2021-ALVAREZ-MICHAEL,0,6029,Kern CA sheriff-coroner,1,0,0,6,sheriff-coroner,Kern County,0.19351162,2,0.55223769,0,0
+Texas-2021-DINH-VINH,0,48267,Kimble TX coroner,1,0,0,48,coroner,Kimble County,0.13865349,9,0.87494498,0,0
+Washington-2012-CHEN-MIKE,0,53033,King County Medical Examiner's Office,1,0,1,53,me,King County,0.10875507,1,0.29214668,0,1
+Washington-2012-DUFFY-VICTOR,0,53033,King County Medical Examiner's Office,0,0,1,53,me,King County,0.10875507,1,0.29214668,0,1
+Washington-2015-MA-SHUN,0,53033,King County Medical Examiner's Office,0,0,0,53,me,King County,0.11217549,1,0.29214668,0,0
+Washington-2018-LENG-WANGSHENG,0,53033,King County Medical Examiner's Office,0,1,1,53,me,King County,0.095465146,1,0.23146252,0,0
+California-2016-HILL-DONALD,0,6031,Kings CA sheriff-coroner,0,1,1,6,sheriff-coroner,Kings County,0.21595739,3,0.57057709,0,0
+Kentucky-2014-BOND-JENNIFER,1,21081,KY state medical examiner,1,0,0,21,coroner,Grant County,0.18262595,1,0.66839743,0,1
+Kentucky-2015-COLLINS JR.-BILLY,1,21127,KY state medical examiner,0,0,0,21,coroner,Lawrence County,0.22692677,2,0.724388,0,0
+Kentucky-2015-JACKSON-JEFFREY,1,21235,KY state medical examiner,1,0,1,21,coroner,Whitley County,0.26011613,7,0.79225707,0,1
+Kentucky-2016-ROLL-MICHAEL,1,21227,KY state medical examiner,1,0,1,21,coroner,Warren County,0.19206853,3,0.62825656,0,1
+Kentucky-2017-DIXON-REGINALD,1,21111,KY state medical examiner,1,0,1,21,coroner,Jefferson County,0.15001543,1,0.4296661,0,1
+Kentucky-2017-HOUNCHELL-NICHOLAS,1,21097,KY state medical examiner,0,0,0,21,coroner,Harrison County,0.16370301,6,0.72796679,0,1
+Kentucky-2018-ENNIS-ROBERT,1,21117,KY state medical examiner,0,1,1,21,coroner,Kenton County,0.12586431,1,0.63952243,0,0
+Kentucky-2018-FUSON-JOSHUA,1,21145,KY state medical examiner,1,0,0,21,coroner,McCracken County,0.15794685,3,0.69459677,0,0
+Kentucky-2018-MITCHELL-ROY,1,21073,KY state medical examiner,0,0,0,21,coroner,Franklin County,0.12280268,4,0.52444977,0,0
+Kentucky-2018-ROBERTS-CHRISTOPHER,1,21111,KY state medical examiner,0,1,1,21,coroner,Jefferson County,0.14777631,1,0.4296661,0,0
+Kentucky-2018-THOMASON-JOSHUA,1,21213,KY state medical examiner,1,1,1,21,coroner,Simpson County,0.15538619,6,0.70308822,0,0
+Kentucky-2020-MARR-JEREMY,1,21009,KY state medical examiner,1,0,1,21,coroner,Barren County,0.25163695,6,0.75926346,0,1
+Kentucky-2020-PRATER JR.-DONALD,1,21115,KY state medical examiner,0,0,0,21,coroner,Johnson County,0.21413521,7,0.86549014,0,1
+Kentucky-2021-CLARKE JR.-ALEJANDRO,1,21093,KY state medical examiner,1,1,1,21,coroner,Hardin County,0.11247325,3,0.6591959,0,0
+Louisiana-2014-MINJAREZ-ROBERT,0,22055,Lafayette Parish LA coroner,1,1,1,22,coroner,Lafayette Parish,0.16326366,2,0.67168254,0,0
+Ohio-2017-BALO-TERRANCE,0,39089,Licking OH coroner,1,1,1,39,coroner,Licking County,0.1176672,1,0.65178013,0,0
+California-2012-ANDERSON-MARLAND,0,6037,Los Angeles CA medical examiner,0,1,1,6,me,Los Angeles County,0.17122521,1,0.28538543,0,0
+California-2012-ARRAZOLA-JAVIER,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.17122521,1,0.28538543,0,0
+California-2012-BURLEY-DARREN,0,6037,Los Angeles CA medical examiner,1,0,1,6,me,Los Angeles County,0.17122521,1,0.28538543,0,0
+California-2012-HOWARD-VACHEL,0,6037,Los Angeles CA medical examiner,1,1,1,6,me,Los Angeles County,0.17122521,1,0.28538543,0,0
+California-2012-LE-KHOA,0,6037,Los Angeles CA medical examiner,0,1,1,6,me,Los Angeles County,0.17122521,1,0.28538543,0,0
+California-2012-THOMAS-ALESIA,0,6037,Los Angeles CA medical examiner,1,0,1,6,me,Los Angeles County,0.17122521,1,0.28538543,0,0
+California-2012-WASHINGTON-DONALD,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.17122521,1,0.28538543,0,0
+California-2013-CEDANO-GUILLERMO,0,6037,Los Angeles CA medical examiner,1,0,1,6,me,Los Angeles County,0.17838961,1,0.28538543,0,0
+California-2013-COUTURIER-MARK,0,6037,Los Angeles CA medical examiner,1,0,1,6,me,Los Angeles County,0.17838961,1,0.28538543,0,0
+California-2014-ABREGO-OMAR,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.18390824,1,0.28538543,0,0
+California-2014-BEAR-HECTOR,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.18390824,1,0.28538543,0,1
+California-2014-CARDENAS-FERREOL,0,6037,Los Angeles CA medical examiner,0,1,1,6,me,Los Angeles County,0.18390824,1,0.28538543,0,0
+California-2014-CRUZ-JOSE,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.18390824,1,0.28538543,0,0
+California-2014-MEARS-MICHAEL,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.18390824,1,0.28538543,0,0
+California-2014-OCANA-CARLOS,0,6037,Los Angeles CA medical examiner,0,1,1,6,me,Los Angeles County,0.18390824,1,0.28538543,0,0
+California-2014-SHRYNE-RICHARD,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.18390824,1,0.28538543,0,0
+California-2015-JIMENEZ-ALEX,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.18210001,1,0.28538543,0,0
+California-2015-MEDINA JR.-HENRY,0,6037,Los Angeles CA medical examiner,1,0,1,6,me,Los Angeles County,0.18210001,1,0.28538543,0,0
+California-2015-PICKETT-BRIAN,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.18210001,1,0.28538543,0,1
+California-2015-RAMIREZ-MIGUEL,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.18210001,1,0.28538543,0,0
+California-2015-RUIZ-OSCAR,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.18210001,1,0.28538543,0,1
+California-2015-VARNEDOE-LEROY,0,6037,Los Angeles CA medical examiner,1,1,1,6,me,Los Angeles County,0.18210001,1,0.28538543,0,0
+California-2016-ARANIVA-JOHNNY,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.17808184,1,0.23800789,0,0
+California-2016-BINKLEY-THOMAS,0,6037,Los Angeles CA medical examiner,0,0,1,6,me,Los Angeles County,0.17808184,1,0.23800789,0,0
+California-2016-MCMILLAN-TIMOTHY,0,6037,Los Angeles CA medical examiner,0,0,1,6,me,Los Angeles County,0.17808184,1,0.23800789,0,0
+California-2016-THOMAS-REGINALD,0,6037,Los Angeles CA medical examiner,1,0,1,6,me,Los Angeles County,0.17808184,1,0.23800789,0,0
+California-2017-FLORES-VICTOR,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.1696057,1,0.23800789,0,0
+California-2017-GONZALEZ-CARLOS,0,6037,Los Angeles CA medical examiner,1,0,1,6,me,Los Angeles County,0.1696057,1,0.23800789,0,0
+California-2017-HAMMOND-RAYMOND,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.1696057,1,0.23800789,0,0
+California-2017-SALCIDO-JONATHAN,0,6037,Los Angeles CA medical examiner,0,0,0,6,me,Los Angeles County,0.1696057,1,0.23800789,0,1
+California-2018-CHAVEZ-JOSE,0,6037,Los Angeles CA medical examiner,1,0,1,6,me,Los Angeles County,0.15982993,1,0.23800789,0,0
+California-2018-CHERRY-STEPHEN,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.15982993,1,0.23800789,0,0
+California-2018-MATOS-EDUARD,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.15982993,1,0.23800789,0,0
+California-2018-OUTING-HUSIE,0,6037,Los Angeles CA medical examiner,0,0,0,6,me,Los Angeles County,0.15982993,1,0.23800789,0,0
+California-2018-RODRIGUEZ-ERIC,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.15982993,1,0.23800789,0,0
+California-2018-ROSS-DEAUTRY,0,6037,Los Angeles CA medical examiner,1,0,1,6,me,Los Angeles County,0.15982993,1,0.23800789,0,0
+California-2018-SPENCER-JEREMY,0,6037,Los Angeles CA medical examiner,0,0,1,6,me,Los Angeles County,0.15982993,1,0.23800789,0,0
+California-2018-SWAGERTY-JEDISON,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.15982993,1,0.23800789,0,0
+California-2018-WEAR-JOSEPH,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.15982993,1,0.23800789,0,0
+California-2019-CEDILLO-JACOBO,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.14910664,1,0.23800789,0,0
+California-2019-MENDOZA-ARTURO,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.14910664,1,0.23800789,0,0
+California-2019-ROJAS-OSCAR,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.14910664,1,0.23800789,0,0
+California-2020-BRICENO-ERIC,0,6037,Los Angeles CA medical examiner,1,1,1,6,me,Los Angeles County,0.14180863,1,0.27441689,0,0
+California-2020-BRONSTEIN-EDWARD,0,6037,Los Angeles CA medical examiner,1,0,1,6,me,Los Angeles County,0.14180863,1,0.27441689,0,0
+California-2020-RIVERA-DANIEL,0,6037,Los Angeles CA medical examiner,1,0,1,6,me,Los Angeles County,0.14180863,1,0.27441689,0,0
+California-2021-HAYES-RICHARD,0,6037,Los Angeles CA medical examiner,0,0,0,6,me,Los Angeles County,0.13856813,1,0.27441689,0,0
+California-2021-SPRINGATE-TRAMOI,0,6037,Los Angeles CA medical examiner,1,0,0,6,me,Los Angeles County,0.13856813,1,0.27441689,0,0
+Texas-2015-CAMPBELL-ADRIEN,0,48303,Lubbock County Medical Examiner's Office,1,0,0,48,me,Lubbock County,0.19421393,2,0.70725429,0,0
+Texas-2015-MENDOZA-MIGUEL,1,48219,Lubbock County Medical Examiner's Office,1,0,0,48,coroner,Hockley County,0.14608534,2,0.78868032,0,0
+Texas-2015-PANDO-RICHARD,1,48371,Lubbock County Medical Examiner's Office,1,0,0,48,coroner,Pecos County,0.11965625,7,0.61223495,0,0
+Texas-2018-GUERRA-ALBERT,0,48303,Lubbock County Medical Examiner's Office,0,0,0,48,me,Lubbock County,0.18921937,2,0.70084548,0,0
+Ohio-2015-POPE-AARON,0,39095,Lucas OH coroner,1,0,0,39,coroner,Lucas County,0.21145095,2,0.33860067,0,0
+Ohio-2019-YOUNG-DONALD,0,39143,Lucas OH coroner,1,0,0,39,coroner,Sandusky County,0.11622587,4,0.62168032,0,1
+Ohio-2013-ROBBINS-GARRY,0,39099,Mahoning County Coroner's Office,1,1,1,39,coroner,Mahoning County,0.17551732,2,0.35623226,0,0
+Arizona-2012-GAMBOA-RALPH,0,4013,Maricopa County Medical Examiner's Office,1,0,1,4,me,Maricopa County,0.15815555,1,0.55457771,0,0
+Arizona-2012-SANCHEZ-JORGE,0,4013,Maricopa County Medical Examiner's Office,1,0,0,4,me,Maricopa County,0.15815555,1,0.55457771,0,0
+Arizona-2013-CASTRO-JAVIER,0,4013,Maricopa County Medical Examiner's Office,1,0,1,4,me,Maricopa County,0.16650999,1,0.55457771,0,0
+Arizona-2013-FOX-ZACHARY,0,4013,Maricopa County Medical Examiner's Office,1,0,0,4,me,Maricopa County,0.16650999,1,0.55457771,0,0
+Arizona-2013-GARCIA-KIALA,0,4013,Maricopa County Medical Examiner's Office,1,0,0,4,me,Maricopa County,0.16650999,1,0.55457771,0,0
+Arizona-2013-LOZANO-SAL,0,4013,Maricopa County Medical Examiner's Office,1,0,0,4,me,Maricopa County,0.16650999,1,0.55457771,0,0
+Arizona-2013-MORENO-JOSEPH,0,4013,Maricopa County Medical Examiner's Office,1,0,0,4,me,Maricopa County,0.16650999,1,0.55457771,0,0
+Arizona-2013-RUIZ-MIGUEL,0,4013,Maricopa County Medical Examiner's Office,1,1,1,4,me,Maricopa County,0.16650999,1,0.55457771,0,0
+Arizona-2014-BEST-DANIEL,0,4013,Maricopa County Medical Examiner's Office,1,0,0,4,me,Maricopa County,0.17113818,1,0.55457771,0,0
+Arizona-2014-CARUTH-EDWARD,0,4013,Maricopa County Medical Examiner's Office,1,0,1,4,me,Maricopa County,0.17113818,1,0.55457771,0,0
+Arizona-2014-LIEUX-GREGORY,0,4013,Maricopa County Medical Examiner's Office,1,0,0,4,me,Maricopa County,0.17113818,1,0.55457771,0,0
+Arizona-2014-MCINTOSH-WILLIAM,0,4013,Maricopa County Medical Examiner's Office,1,1,1,4,me,Maricopa County,0.17113818,1,0.55457771,0,0
+Arizona-2014-ZAMORA-DANIEL,0,4013,Maricopa County Medical Examiner's Office,1,0,0,4,me,Maricopa County,0.17113818,1,0.55457771,0,0
+Arizona-2015-KAPLAN-MARC,0,4013,Maricopa County Medical Examiner's Office,0,1,1,4,me,Maricopa County,0.1698444,1,0.55457771,0,0
+Arizona-2015-MCQUADE-BRANDYN,0,4013,Maricopa County Medical Examiner's Office,1,0,0,4,me,Maricopa County,0.1698444,1,0.55457771,0,0
+Arizona-2015-SHERRICK-STEVEN,0,4013,Maricopa County Medical Examiner's Office,1,0,0,4,me,Maricopa County,0.1698444,1,0.55457771,0,0
+Arizona-2016-STEEN-BRIAN,0,4013,Maricopa County Medical Examiner's Office,1,0,1,4,me,Maricopa County,0.16516866,1,0.51532614,0,0
+Arizona-2017-FOSTER-JOSEPH,0,4013,Maricopa County Medical Examiner's Office,1,1,1,4,me,Maricopa County,0.15713914,1,0.51532614,0,0
+Arizona-2017-LANKFORD-GORDON,0,4013,Maricopa County Medical Examiner's Office,1,0,1,4,me,Maricopa County,0.15713914,1,0.51532614,0,0
+Arizona-2017-MUHAYMIN-MUHAMMAD,0,4013,Maricopa County Medical Examiner's Office,1,0,1,4,me,Maricopa County,0.15713914,1,0.51532614,0,0
+Arizona-2018-OVERLOW-MICHAEL,0,4021,Maricopa County Medical Examiner's Office,1,0,0,4,me,Pinal County,0.14238848,1,0.60325074,0,0
+Arizona-2018-SNYDER-MICHAEL,0,4013,Maricopa County Medical Examiner's Office,1,0,0,4,me,Maricopa County,0.14731784,1,0.51532614,0,0
+Arizona-2019-WELLS-CASEY,0,4013,Maricopa County Medical Examiner's Office,1,1,1,4,me,Maricopa County,0.13769557,1,0.51532614,0,0
+Arizona-2020-CERECERES-ARMANDO,0,4013,Maricopa County Medical Examiner's Office,1,0,0,4,me,Maricopa County,0.12718664,1,0.51532614,0,0
+Arizona-2020-LOPEZ-RAMON,0,4013,Maricopa County Medical Examiner's Office,1,0,1,4,me,Maricopa County,0.12718664,1,0.51532614,0,0
+Arizona-2020-MASSETT-DAVID,0,4013,Maricopa County Medical Examiner's Office,1,0,0,4,me,Maricopa County,0.12718664,1,0.51532614,0,0
+Arizona-2021-DORADO-MICHAEL,0,4013,Maricopa County Medical Examiner's Office,1,0,1,4,me,Maricopa County,0.12044165,1,0.51532614,0,0
+Arizona-2021-GOHL-CHRISTOPHER,0,4013,Maricopa County Medical Examiner's Office,1,1,1,4,me,Maricopa County,0.12044165,1,0.51532614,0,0
+Arizona-2021-HOLLAND-JAMES,0,4013,Maricopa County Medical Examiner's Office,1,0,1,4,me,Maricopa County,0.12044165,1,0.51532614,0,0
+Arizona-2021-RICKMAN-JESSEE,0,4013,Maricopa County Medical Examiner's Office,1,0,1,4,me,Maricopa County,0.12044165,1,0.51532614,0,0
+Arizona-2021-TERRELL-AKEEM,0,4013,Maricopa County Medical Examiner's Office,0,1,1,4,me,Maricopa County,0.12044165,1,0.51532614,0,0
+Arizona-2014-MBEGBU-BALANTINE,0,4013,Maricopa County Medical Examiner's Office,1,0,1,4,me,Maricopa County,0.17113818,1,0.55457771,0,0
+Arizona-2017-KNOWLTON-LEE,0,4013,Maricopa County Medical Examiner's Office,1,0,1,4,me,Maricopa County,0.15713914,1,0.51532614,0,0
+California-2018-CAMERON-RODERIC,0,6097,Marin CA sheriff-coroner,0,1,1,6,sheriff-coroner,Sonoma County,0.10255757,2,0.24267028,0,0
+California-2019-WARD-DAVID,0,6097,Marin CA sheriff-coroner,1,1,1,6,sheriff-coroner,Sonoma County,0.092221163,2,0.24267028,0,0
+California-2020-MILLER-DONALD,0,6097,Marin CA sheriff-coroner,0,0,1,6,sheriff-coroner,Sonoma County,0.087967232,2,0.23618694,0,0
+Indiana-2012-BUTLER-ANTON,0,18097,Marion IN coroner,1,0,0,18,coroner,Marion County,0.19378136,1,0.38688093,0,0
+Indiana-2013-NICHOLS-BRIAN,0,18097,Marion IN coroner,1,0,0,18,coroner,Marion County,0.2042224,1,0.38688093,0,0
+Indiana-2014-HEISHMAN-DUSTY,0,18097,Marion IN coroner,1,0,0,18,coroner,Marion County,0.21014111,1,0.38688093,0,1
+Indiana-2015-DAY-TERRELL,0,18097,Marion IN coroner,0,0,0,18,coroner,Marion County,0.21091177,1,0.38688093,0,0
+Indiana-2016-TODERO-CHARLES,0,18081,Marion IN coroner,0,0,0,18,coroner,Johnson County,0.092947371,1,0.72412145,0,0
+Indiana-2018-DANIELS-PAUL,0,18097,Marion IN coroner,0,0,1,18,coroner,Marion County,0.18951152,1,0.37977153,0,0
+Indiana-2019-NORTHINGTON-ELEANOR,0,18097,Marion IN coroner,0,1,1,18,coroner,Marion County,0.17795384,1,0.37977153,0,0
+Massachusetts-2013-MOSKITES-DONALD,0,25025,Massachusetts Office of the Chief Medical Examiner,0,0,1,25,me,Suffolk County,0.20796238,1,0.21134222,0,0
+Massachusetts-2014-GRAFFEO-DOMINIC,0,25025,Massachusetts Office of the Chief Medical Examiner,1,0,1,25,me,Suffolk County,0.21154018,1,0.21134222,0,0
+Massachusetts-2015-CORONA-RAZO-ANTONIO,0,25025,Massachusetts Office of the Chief Medical Examiner,1,1,1,25,me,Suffolk County,0.2073302,1,0.21134222,0,0
+Massachusetts-2015-DELGADO SOBA-WILMER,0,25027,Massachusetts Office of the Chief Medical Examiner,1,0,1,25,me,Worcester County,0.1175865,2,0.45181039,0,0
+Massachusetts-2016-MACOMBER-SCOTT,0,25005,Massachusetts Office of the Chief Medical Examiner,0,1,1,25,me,Bristol County,0.12494967,1,0.44872609,0,0
+Massachusetts-2018-MAILLOUX-KRIS,0,25027,Massachusetts Office of the Chief Medical Examiner,0,0,1,25,me,Worcester County,0.10415736,2,0.44235539,0,0
+Massachusetts-2018-SHEETS-ROGER,0,25017,Massachusetts Office of the Chief Medical Examiner,1,0,0,25,me,Middlesex County,0.079287753,1,0.29695618,0,0
+Massachusetts-2018-STELZER-ERICH,0,25021,Massachusetts Office of the Chief Medical Examiner,1,1,1,25,me,Norfolk County,0.064697988,1,0.35053667,0,0
+Massachusetts-2019-MILLER-ROBERT,0,25001,Massachusetts Office of the Chief Medical Examiner,0,1,1,25,me,Barnstable County,0.064251862,3,0.42756206,0,1
+Massachusetts-2020-CHEST-STERLING,0,25013,Massachusetts Office of the Chief Medical Examiner,0,0,1,25,me,Hampden County,0.15727536,2,0.40943235,0,0
+Hawaii-2020-ABISDID WAGNER-MAURICE,0,15009,Maui HI coroner,1,0,1,15,sheriff-coroner,Maui County,0.090216421,3,0.31867608,0,0
+Missouri-2020-MEEKINS-LYNDABETH,0,29119,McDonald MO coroner,1,1,1,29,coroner,McDonald County,0.19319342,8,0.83838725,0,0
+Colorado-2013-SANTISTEVEN-SEGURA-RICKY,1,8087,McKee Medical Center,1,0,1,8,coroner,Morgan County,0.13325365,6,0.62792468,0,0
+Florida-2018-RODGERS-GEORGE,0,12017,Medical Examiner Districts 5 and 24,1,0,0,12,me,Citrus County,0.16692069,3,0.70497769,0,1
+Florida-2019-BENTLEY-SEAN,0,12069,Medical Examiner Districts 5 and 24,1,0,0,12,me,Lake County,0.11990188,1,0.61922365,0,0
+California-2012-RAMIREZ-ROBERT,0,6111,Medical Examiner-Coroner County of Ventura,0,1,1,6,me,Ventura County,0.10348008,2,0.46398255,0,0
+Florida-2016-ALCALDE-ROBERT,0,12103,"Medical Examiner, District Six",0,1,1,12,me,Pinellas County,0.14133795,1,0.50581515,1,0
+South Carolina-2019-BRITT-JAMES,1,45019,Medical University of South Carolina,1,1,1,45,coroner,Charleston County,0.13737819,2,0.45794636,0,0
+South Carolina-2021-GREEN-CHARLES,1,45041,Medical University of South Carolina,0,0,0,45,coroner,Florence County,0.17633784,3,0.52543396,0,0
+California-2014-SAULSBURY-DANIEL,0,6045,Mendocino CA sheriff-coroner,1,0,0,6,sheriff-coroner,Mendocino County,0.20198326,4,0.2939941,0,0
+California-2012-RODAS-RANDULPH,0,6047,Merced CA sheriff-coroner,1,0,1,6,sheriff-coroner,Merced County,0.24552484,2,0.45523718,0,1
+California-2015-TRAN-HAI,0,6019,Merced CA sheriff-coroner,1,0,1,6,sheriff-coroner,Fresno County,0.26841652,1,0.49085438,0,1
+New Jersey-2020-AHR-JOSEPH,0,34021,Mercer/Middlesex/Monmouth district ME,0,0,1,34,me,Mercer County,0.11104793,2,0.29649258,0,0
+Kansas-2012-MAUPIN-TRAVIS,0,20121,Miami KS coroner,1,0,0,20,coroner,Miami County,0.089610025,1,0.67659575,0,0
+Florida-2012-GUZMAN-CAMILO,0,12086,Miami-Dade County Medical Examiner Department,1,0,0,12,me,Miami-Dade County,0.1912291,1,0.38080171,0,1
+Florida-2012-SALGADO-GEORGE,0,12086,Miami-Dade County Medical Examiner Department,1,0,0,12,me,Miami-Dade County,0.1912291,1,0.38080171,0,1
+Florida-2013-HERNANDEZ-LLACH-ISRAEL,0,12086,Miami-Dade County Medical Examiner Department,0,0,1,12,me,Miami-Dade County,0.1992964,1,0.38080171,0,0
+Florida-2013-OOSTERBROEK-NORMAN,0,12086,Miami-Dade County Medical Examiner Department,1,0,0,12,me,Miami-Dade County,0.1992964,1,0.38080171,0,1
+Florida-2014-BARRERA-MAYKEL,0,12086,Miami-Dade County Medical Examiner Department,1,0,0,12,me,Miami-Dade County,0.20505659,1,0.38080171,0,0
+Florida-2014-JOHNSON-TREON,0,12086,Miami-Dade County Medical Examiner Department,1,0,0,12,me,Miami-Dade County,0.20505659,1,0.38080171,0,1
+Florida-2014-ROQUE-MICHAEL,0,12086,Miami-Dade County Medical Examiner Department,1,0,0,12,me,Miami-Dade County,0.20505659,1,0.38080171,0,1
+Florida-2014-SAMS-WILLIE,0,12086,Miami-Dade County Medical Examiner Department,0,0,1,12,me,Miami-Dade County,0.20505659,1,0.38080171,0,0
+Florida-2014-VANN-TIMOTHY,0,12086,Miami-Dade County Medical Examiner Department,1,0,0,12,me,Miami-Dade County,0.20505659,1,0.38080171,0,1
+Florida-2015-ORNELAS-ROBERTO,0,12087,Miami-Dade County Medical Examiner Department,1,0,0,12,me,Monroe County,0.134342,4,0.49780008,0,0
+Florida-2015-RABASA-MAXIMO,0,12086,Miami-Dade County Medical Examiner Department,1,0,0,12,me,Miami-Dade County,0.20396127,1,0.38080171,0,1
+Florida-2016-GUTIERREZ-AVIEL,0,12086,Miami-Dade County Medical Examiner Department,1,0,0,12,me,Miami-Dade County,0.19906768,1,0.34858921,0,1
+Florida-2017-MORALES-MERLIN,0,12086,Miami-Dade County Medical Examiner Department,1,0,0,12,me,Miami-Dade County,0.1897894,1,0.34858921,0,0
+Florida-2017-WOOTEN-KEITH,0,12086,Miami-Dade County Medical Examiner Department,1,0,0,12,me,Miami-Dade County,0.1897894,1,0.34858921,0,1
+Florida-2018-LUNA-LUIS,0,12086,Miami-Dade County Medical Examiner Department,1,0,0,12,me,Miami-Dade County,0.18035637,1,0.34858921,0,0
+New Jersey-2015-HARDEN-TIMOTHY,0,34025,Middlesex/Mercer/Monmonth Regional Medical Examiner Office,1,0,1,34,me,Monmouth County,0.074650086,1,0.52559698,0,1
+New Jersey-2016-HIGGENBOTHAM-KEVIN,0,34021,Middlesex/Mercer/Monmonth Regional Medical Examiner Office,1,0,0,34,me,Mercer County,0.11206211,2,0.30597875,0,1
+Minnesota-2012-PEDERSON-DONALD,0,27163,Midwest Medical Examiner's Office,0,1,1,27,me,Washington County,0.055875406,1,0.49617481,0,0
+Minnesota-2020-BECKES-DAVID,0,27145,Midwest Medical Examiner's Office,1,0,0,27,me,Stearns County,0.12062038,3,0.61516452,0,0
+Wisconsin-2012-KRIEWALDT-JOHN,0,55079,Milwaukee County Medical Examiner,0,0,0,55,me,Milwaukee County,0.2086127,1,0.31788281,0,0
+Wisconsin-2012-MAURINA-ROBERT,0,55079,Milwaukee County Medical Examiner,0,0,0,55,me,Milwaukee County,0.2086127,1,0.31788281,0,0
+Wisconsin-2017-GALIEN-DILLON,1,55071,Milwaukee County Medical Examiner,1,0,0,55,coroner,Manitowoc County,0.10204574,4,0.61521524,0,0
+Wisconsin-2017-TRAMMELL-ADAM,0,55079,Milwaukee County Medical Examiner,0,0,0,55,me,Milwaukee County,0.2054875,1,0.30350447,0,1
+Wisconsin-2018-MORGAN-PERCY,0,55079,Milwaukee County Medical Examiner,1,0,1,55,me,Milwaukee County,0.19910629,1,0.30350447,0,0
+Wisconsin-2019-MILLAR-STEVEN,1,55087,Milwaukee County Medical Examiner,1,0,0,55,coroner,Outagamie County,0.077922791,3,0.56705052,0,1
+South Dakota-2018-LANGLEY-JOSHUA,0,46099,Minehaha County ME office,,,,46,me,Minnehaha County,0.10767423,2,0.57868224,0,
+Missouri-2012-RIELS-CHARLES,1,29023,Mineral Area Regional Medical Center,0,0,0,29,coroner,Butler County,0.20574428,5,0.73734272,0,1
+Mississippi-2014-DAVIS-TYRONE,0,28001,Mississippi State Medical Examiner's Office,0,0,0,28,me,Adams County,0.29986107,7,0.40986061,0,0
+Mississippi-2014-MCDOUGLE-MICHAEL,0,28099,Mississippi State Medical Examiner's Office,1,1,1,28,me,Neshoba County,0.2266947,7,0.71727991,0,0
+Mississippi-2015-DAVENPORT-STEVEN,0,28075,Mississippi State Medical Examiner's Office,1,0,0,28,me,Lauderdale County,0.22826087,5,0.57513684,0,0
+Mississippi-2015-GOODE-TROY,0,28033,Mississippi State Medical Examiner's Office,1,0,0,28,me,DeSoto County,0.097768523,1,0.66875976,0,0
+Mississippi-2015-SANDERS-JONATHAN,0,28023,Mississippi State Medical Examiner's Office,1,1,1,28,me,Clarke County,0.21275288,9,0.61874998,0,0
+Mississippi-2016-BROWN-CARLOS,0,28089,Mississippi State Medical Examiner's Office,0,0,0,28,me,Madison County,0.12691824,2,0.58148867,0,0
+Mississippi-2016-MACOMBER-BRADFORD,0,28047,Mississippi State Medical Examiner's Office,1,0,0,28,me,Harrison County,0.21015687,2,0.65591729,0,0
+Mississippi-2017-BAIRD-TOMMY,0,28089,Mississippi State Medical Examiner's Office,1,0,0,28,me,Madison County,0.11980343,2,0.58148867,0,0
+Mississippi-2018-LOGGINS-ROBERT,0,28043,Mississippi State Medical Examiner's Office,1,0,0,28,me,Grenada County,0.24494706,7,0.57436985,0,0
+Mississippi-2018-STEVENS-JASON,0,28075,Mississippi State Medical Examiner's Office,1,0,0,28,me,Lauderdale County,0.21841845,5,0.61154777,0,0
+Mississippi-2019-CLARK-MARIO,0,28049,Mississippi State Medical Examiner's Office,1,0,0,28,me,Hinds County,0.21284968,2,0.27215755,0,0
+Mississippi-2019-ROBINSON-GEORGE,0,28049,Mississippi State Medical Examiner's Office,0,1,1,28,me,Hinds County,0.21284968,2,0.27215755,0,0
+Mississippi-2021-ALEXANDER-JAMES,0,28081,Mississippi State Medical Examiner's Office,1,0,0,28,me,Lee County,0.13423422,5,0.66510057,0,0
+Mississippi-2021-CAMERON-DAMIEN,0,28127,Mississippi State Medical Examiner's Office,0,0,0,28,me,Simpson County,0.19158201,2,0.65412956,0,0
+Arizona-2014-O'CONNELL-MICHAEL,0,4015,Mohave County Medical Examiner's Office,0,1,1,4,me,Mohave County,0.19901201,3,0.71568102,0,0
+New York-2015-DAVIS-RICHARD,0,36055,Monroe County Medical Examiner's Office,,,,36,me,Monroe County,0.15195355,1,0.38100216,0,
+New York-2016-CUMMINGS-INDIA,1,36029,Monroe County Medical Examiner's Office,0,0,0,36,me,Erie County,0.14740194,1,0.46637475,0,0
+New York-2018-SCOTT-ROBERT,1,36117,Monroe County Medical Examiner's Office,1,0,0,36,coroner,Wayne County,0.11303843,1,0.63441241,0,0
+New York-2020-PRUDE-DANIEL,0,36055,Monroe County Medical Examiner's Office,1,1,1,36,me,Monroe County,0.14076571,1,0.392187,0,1
+California-2014-GARCIA VILLASENOR-JAIME,0,6053,Monterey CA sheriff-coroner,1,0,0,6,sheriff-coroner,Monterey County,0.17210661,2,0.3107805,0,1
+Ohio-2015-HARRIS-TERRY,0,39113,Montgomery County Coroner's office,1,0,0,39,coroner,Montgomery County,0.18645108,2,0.47652873,0,1
+Ohio-2019-NAPIER-MARVIN,0,39027,Montgomery County Coroner's office,1,0,0,39,coroner,Clinton County,0.1480002,6,0.77289993,0,0
+Ohio-2021-DUNCAN-KEVIN,0,39091,Montgomery County Coroner's office,1,0,0,39,coroner,Logan County,0.095333263,4,0.78039879,0,0
+Texas-2014-LANDES-MICHAEL,1,48185,Montgomery County Forensic Services,0,0,0,48,coroner,Grimes County,0.18833624,6,0.7241745,0,0
+California-2016-BARLOW-FRED,0,6095,Napa County Sheriff-Coroner,1,0,0,6,sheriff-coroner,Solano County,0.12721884,2,0.33653098,0,0
+North Carolina-2012-MCEACHIN-GEORGE,0,37155,NC state ME system,0,0,1,37,me,Robeson County,0.31947133,4,0.4120194,0,0
+North Carolina-2012-RAMIREZ-ZENON,0,37081,NC state ME system,1,1,1,37,me,Guilford County,0.16856697,2,0.41723007,0,0
+North Carolina-2013-PRITCHARD-WALTER,0,37011,NC state ME system,1,0,0,37,me,Avery County,0.18042696,9,0.75392258,0,0
+North Carolina-2013-SADLER-THOMAS,0,37183,NC state ME system,1,1,1,37,me,Wake County,0.10994064,1,0.44187629,0,0
+North Carolina-2014-HAMILTON-RANDY,0,37127,NC state ME system,1,1,1,37,me,Nash County,0.17752738,3,0.49510953,0,0
+North Carolina-2014-JONES-WILLIAM,0,37155,NC state ME system,1,0,1,37,me,Robeson County,0.31975791,4,0.4120194,0,0
+North Carolina-2014-WILLIAMS-RONDRICKQUIZ,0,37101,NC state ME system,1,0,0,37,me,Johnston County,0.16375004,1,0.63957894,0,0
+North Carolina-2015-GALLAGHER-MICHAEL,0,37083,NC state ME system,1,0,0,37,me,Halifax County,0.26318324,4,0.33783108,0,0
+North Carolina-2015-KING-CARL,0,37183,NC state ME system,1,0,0,37,me,Wake County,0.1129653,1,0.44187629,0,0
+North Carolina-2015-PAGE-TRAVIS,0,37067,NC state ME system,0,1,1,37,me,Forsyth County,0.1964927,2,0.4635222,0,0
+North Carolina-2016-HARBISON-RITCHIE,0,37089,NC state ME system,0,1,1,37,me,Henderson County,0.13283396,2,0.64363003,0,0
+North Carolina-2016-LEWIS-MARLON,0,37167,NC state ME system,1,0,0,37,me,Stanly County,0.17137447,6,0.7558676,0,0
+North Carolina-2016-THOMPSON-ALEXANDER,0,37101,NC state ME system,1,1,1,37,me,Johnston County,0.14586641,1,0.6571905,0,0
+North Carolina-2018-SMITH-MARCUS,0,37081,NC state ME system,1,0,1,37,me,Guilford County,0.1594878,2,0.39651451,0,0
+North Carolina-2019-OXENDINE-JOSHUA,0,37051,NC state ME system,1,0,1,37,me,Cumberland County,0.18366039,2,0.41722959,0,0
+North Carolina-2020-SAUNDERS-MATTHEW,0,37035,NC state ME system,1,0,1,37,me,Catawba County,0.12380909,2,0.69490939,0,0
+California-2012-CHRESTENSEN-BRUCE,0,6057,Nevada CA sheriff-coroner,1,0,1,6,sheriff-coroner,Nevada County,0.11584236,4,0.50325286,0,0
+New Jersey-2012-MERCADO-MICHAEL,0,34013,New Jersey Northern Regional Medical Examiner Office,,,,34,me,Essex County,0.16052313,1,0.21395636,0,
+New Jersey-2019-LOWERY-JAMEEK,0,34031,New Jersey Northern Regional Medical Examiner Office,1,0,0,34,me,Passaic County,0.156922,1,0.38438055,0,0
+New Jersey-2019-ZAMPINI-FRANK,0,34023,New Jersey Northern Regional Medical Examiner Office,1,0,0,34,me,Middlesex County,0.084944807,1,0.38909546,0,1
+New Jersey-2021-GONZALEZ-JOSE,0,34031,New Jersey Northern Regional Medical Examiner Office,1,0,0,34,me,Passaic County,0.14581238,1,0.41613072,0,0
+Louisiana-2014-LABAUX-ENNIS,1,22095,New Orleans Forensic Center,,,,22,coroner,St. John the Baptist Parish,0.17622745,1,0.36636376,0,
+New Mexico-2013-TOWLER-CODY,0,35005,NM state ME system,0,0,1,35,me,Chaves County,0.21331909,5,0.66463536,0,1
+New Mexico-2014-BOSCON-DANIEL,0,35043,NM state ME system,1,0,0,35,me,Sandoval County,0.14671889,2,0.4724057,0,0
+New Mexico-2015-C DE BACA-BEN,0,35043,NM state ME system,1,0,1,35,me,Sandoval County,0.14237985,2,0.4724057,0,1
+New Mexico-2015-DURAN-FIDENCIO,0,35001,NM state ME system,0,1,1,35,me,Bernalillo County,0.19378176,2,0.41380224,0,0
+New Mexico-2016-CHARLET-ROGER,0,35029,NM state ME system,1,0,0,35,me,Luna County,0.29494473,6,0.52120483,0,0
+New Mexico-2017-GALLEGOS-RAUL,0,35001,NM state ME system,1,0,1,35,me,Bernalillo County,0.17953087,2,0.39769858,0,0
+New Mexico-2018-PARRAS-MARK,0,35001,NM state ME system,1,0,0,35,me,Bernalillo County,0.17422402,2,0.39769858,0,0
+New Mexico-2018-TURNER-DANIEL,0,35045,NM state ME system,1,0,0,35,me,San Juan County,0.21301694,3,0.68476635,0,0
+New Mexico-2019-LYNCH-RODNEY,0,35031,NM state ME system,1,0,1,35,me,McKinley County,0.34824428,5,0.27323341,0,0
+New Mexico-2020-VALENZUELA-ANTONIO,0,35013,NM state ME system,1,1,1,35,me,DoÃ±a Ana County,0.24832985,3,0.40617144,0,0
+New Mexico-2021-MORA-CHRISTOPHER,0,35001,NM state ME system,0,1,1,35,me,Bernalillo County,0.16091456,2,0.37475958,1,0
+New Mexico-2021-WHITE-DANNY,0,35001,NM state ME system,0,0,1,35,me,Bernalillo County,0.16091456,2,0.37475958,0,0
+North Dakota-2018-SEMINOLE-DANIEL,1,38051,North Dakota State Forensic Medical Examiner,1,0,0,38,sheriff-coroner,McIntosh County,0.08103855,9,0.82397002,0,0
+North Dakota-2020-PRUDENTE-JOHN,1,38059,North Dakota State Forensic Medical Examiner,1,0,0,38,coroner,Morton County,0.07558921,3,0.75972694,0,1
+North Dakota-2021-PEDERSON-RYAN,1,38015,North Dakota State Forensic Medical Examiner,1,0,1,38,sheriff-coroner,Burleigh County,0.077601299,3,0.70773244,0,0
+Texas-2015-MANNING-WESLEY,1,48007,Nueces County Medical Examiner,0,0,1,48,coroner,Aransas County,0.18978071,2,0.71638346,0,1
+Texas-2015-PEDIGONE-MARIO,0,48355,Nueces County Medical Examiner,1,1,1,48,me,Nueces County,0.179591,2,0.51685703,0,0
+Texas-2018-MILLER-DERRICK,0,48355,Nueces County Medical Examiner,1,0,0,48,me,Nueces County,0.16358697,2,0.50784284,0,1
+Michigan-2013-PELLOW-NATHAN,0,26099,Oakland County Medical Examiner,0,0,0,26,me,Macomb County,0.12460636,1,0.47986767,0,0
+Michigan-2015-NA-Juvenile - Name withheld,0,26091,Oakland County Medical Examiner,1,0,1,26,me,Lenawee County,0.14346771,4,0.50651526,0,0
+Michigan-2019-MCCAFFREY-HENRY,0,26125,Oakland County Medical Examiner,0,0,0,26,me,Oakland County,0.081752695,1,0.45740211,0,0
+New York-2012-FRANCIS-SHEREESE,0,77777,Office of Chief Medical Examiner City of New York,0,1,1,,me,NYC,0.19876935,1,0.17117089,0,0
+New York-2013-WILLIAMS-BARRINGTON,0,77777,Office of Chief Medical Examiner City of New York,0,0,0,,me,NYC,0.20328969,1,0.17117089,0,0
+New York-2014-GARNER-ERIC,0,77777,Office of Chief Medical Examiner City of New York,0,1,1,,me,NYC,0.20637633,1,0.17117089,0,0
+New York-2014-SINGLETON-RONALD,0,77777,Office of Chief Medical Examiner City of New York,1,0,1,,me,NYC,0.20637633,1,0.17117089,0,1
+New York-2015-OCASIO-MARIO,0,77777,Office of Chief Medical Examiner City of New York,1,0,0,,me,NYC,0.2063231,1,0.17117089,0,1
+New York-2015-PAUL II-ANTHONY,0,77777,Office of Chief Medical Examiner City of New York,1,0,0,,me,NYC,0.2063231,1,0.17117089,0,1
+New York-2015-REYES-DENIS,0,77777,Office of Chief Medical Examiner City of New York,1,0,0,,me,NYC,0.2063231,1,0.17117089,0,0
+New York-2016-GALARZA-ARIEL,0,77777,Office of Chief Medical Examiner City of New York,1,0,1,,me,NYC,0.20295312,1,0.18598162,0,0
+New York-2016-GONZALEZ-RICHARD,0,77777,Office of Chief Medical Examiner City of New York,1,0,0,,me,NYC,0.20295312,1,0.18598162,0,0
+New York-2017-PEREZ-WALTER,0,36059,Office of Chief Medical Examiner City of New York,1,0,1,36,me,Nassau County,0.058544461,1,0.46925867,0,1
+New York-2018-LOPEZ-EDWIN,0,77777,Office of Chief Medical Examiner City of New York,1,0,0,,me,NYC,0.18913773,1,0.18598162,0,0
+New York-2018-PRITCHETT-DWAYNE,0,77777,Office of Chief Medical Examiner City of New York,1,1,1,,me,NYC,0.18913773,1,0.18598162,0,0
+New York-2019-LAGODA-EVGENIY,0,77777,Office of Chief Medical Examiner City of New York,0,0,0,,me,NYC,0.17947888,1,0.18598162,0,1
+New York-2020-ZAPANTIS-GEORGE,0,77777,Office of Chief Medical Examiner City of New York,0,0,1,,me,NYC,0.17274866,1,0.22953229,0,0
+Indiana-2019-WARE-TAYLOR,1,18147,"Office of the Chief Medical Examiner, Indiana",0,0,0,18,coroner,Spencer County,0.092959709,8,0.69670308,0,1
+Maine-2012-MCCUE-PHILLIP,0,23019,"Office of the Chief Medical Examiner, Maine",1,0,0,23,me,Penobscot County,0.17128253,3,0.48497838,0,0
+Maine-2017-WARD-DENNIS,0,23027,"Office of the Chief Medical Examiner, Maine",0,0,0,23,me,Waldo County,0.14319591,8,0.4985109,0,0
+Maryland-2012-ANDERSON-ANTHONY,0,24510,"Office of the Chief Medical Examiner, Maryland",0,1,1,,me,Baltimore city,0.23426969,1,0.11284243,0,0
+Maryland-2012-JONES-NATHAN,0,24031,"Office of the Chief Medical Examiner, Maryland",0,1,1,24,me,Montgomery County,0.065333799,1,0.27611005,0,0
+Maryland-2012-MCDONALD-YEKUNA,0,24047,"Office of the Chief Medical Examiner, Maryland",1,0,1,24,me,Worcester County,0.10984579,4,0.59154457,0,1
+Maryland-2012-TONEY-PATRICK,0,24003,"Office of the Chief Medical Examiner, Maryland",1,0,1,24,me,Anne Arundel County,0.059122343,1,0.50038862,0,1
+Maryland-2013-ADELL-JAMES,0,24043,"Office of the Chief Medical Examiner, Maryland",1,0,1,24,me,Washington County,0.12429725,2,0.5902546,0,1
+Maryland-2013-HOWARD-ANTHONY,0,24031,"Office of the Chief Medical Examiner, Maryland",1,0,1,24,me,Montgomery County,0.067276739,1,0.27611005,0,1
+Maryland-2013-WEST-TYRONE,0,24510,"Office of the Chief Medical Examiner, Maryland",0,0,1,,me,Baltimore city,0.23786354,1,0.11284243,0,0
+Maryland-2014-KING-GEORGE,0,24510,"Office of the Chief Medical Examiner, Maryland",0,0,0,,me,Baltimore city,0.24207668,1,0.11284243,0,0
+Maryland-2014-MORENO-ANTONIO,0,24510,"Office of the Chief Medical Examiner, Maryland",0,0,0,,me,Baltimore city,0.24207668,1,0.11284243,0,0
+Maryland-2014-WILLIAMS-ARVEL,0,24025,"Office of the Chief Medical Examiner, Maryland",1,0,0,24,me,Harford County,0.077338919,1,0.5945124,0,0
+Maryland-2015-BROWN-DARRELL,0,24043,"Office of the Chief Medical Examiner, Maryland",1,0,1,24,me,Washington County,0.12891321,2,0.5902546,0,1
+Maryland-2015-COWARD II-SURRANO,0,24033,"Office of the Chief Medical Examiner, Maryland",1,0,1,24,me,Prince George's County,0.096381426,1,0.093136847,0,1
+Maryland-2015-DORSEY-DEONTRE,0,24017,"Office of the Chief Medical Examiner, Maryland",1,0,1,24,me,Charles County,0.07894405,1,0.34046409,0,0
+Maryland-2015-GRAY JR.-FREDDIE,0,24510,"Office of the Chief Medical Examiner, Maryland",0,1,1,,me,Baltimore city,0.23662674,1,0.11284243,0,0
+Maryland-2016-BOYD-TAWON,0,24005,"Office of the Chief Medical Examiner, Maryland",1,0,0,24,me,Baltimore County,0.093002342,1,0.40631005,0,0
+Maryland-2017-TUNNELL-BYRON,0,24047,"Office of the Chief Medical Examiner, Maryland",1,0,0,24,me,Worcester County,0.10285062,4,0.63828206,0,0
+Maryland-2017-YOUNG-JASMINE,0,24033,"Office of the Chief Medical Examiner, Maryland",1,1,1,24,me,Prince George's County,0.092970207,1,0.087064162,0,0
+Maryland-2018-BLACK-ANTON,0,24011,"Office of the Chief Medical Examiner, Maryland",0,0,0,24,me,Caroline County,0.14718722,6,0.70030648,0,0
+Maryland-2018-FLOYD-SHAWN,0,24003,"Office of the Chief Medical Examiner, Maryland",1,0,1,24,me,Anne Arundel County,0.060002834,1,0.48800743,0,0
+Maryland-2018-ROBEY JR.-ROBERT,0,24021,"Office of the Chief Medical Examiner, Maryland",0,0,0,24,me,Frederick County,0.071201861,1,0.5129261,0,0
+Maryland-2018-WATTS-TERRANCE,0,24021,"Office of the Chief Medical Examiner, Maryland",1,0,1,24,me,Frederick County,0.071201861,1,0.5129261,0,1
+Maryland-2020-BROWN-GAMEL,0,24005,"Office of the Chief Medical Examiner, Maryland",1,0,1,24,me,Baltimore County,0.092789337,1,0.40631005,0,1
+New Hampshire-2019-ST. CYR-BRANDIE,0,33011,"Office of the Chief Medical Examiner, New Hampshire",1,0,0,33,me,Hillsborough County,0.077747717,2,0.5010621,0,0
+New Hampshire-2019-ST. CYR-CHRISTIAN,0,33011,"Office of the Chief Medical Examiner, New Hampshire",1,1,1,33,me,Hillsborough County,0.077747717,2,0.5010621,0,0
+Oklahoma-2012-DENNIS-TIMOTHY,0,40109,"Office of the Chief Medical Examiner, Oklahoma",0,1,1,40,me,Oklahoma County,0.17824276,1,0.58325738,0,0
+Oklahoma-2012-HOWARD-ROBIN,0,40109,"Office of the Chief Medical Examiner, Oklahoma",0,1,1,40,me,Oklahoma County,0.17824276,1,0.58325738,0,0
+Oklahoma-2012-MORRIS-GEORGE,0,40027,"Office of the Chief Medical Examiner, Oklahoma",1,0,0,40,me,Cleveland County,0.12867308,1,0.62965053,0,0
+Oklahoma-2013-ARMSTRONG-CLIFTON,0,40109,"Office of the Chief Medical Examiner, Oklahoma",1,0,0,40,me,Oklahoma County,0.18460411,1,0.58325738,0,0
+Oklahoma-2013-MURRAY-ORAL,0,40109,"Office of the Chief Medical Examiner, Oklahoma",1,0,1,40,me,Oklahoma County,0.18460411,1,0.58325738,0,0
+Oklahoma-2014-RODRIGUEZ-LUIS,0,40027,"Office of the Chief Medical Examiner, Oklahoma",0,0,1,40,me,Cleveland County,0.13289058,1,0.62965053,0,0
+Oklahoma-2015-GATEWOOD-DARRELL,0,40109,"Office of the Chief Medical Examiner, Oklahoma",1,0,1,40,me,Oklahoma County,0.18192144,1,0.58325738,0,0
+Oklahoma-2015-LYNCH-DAVID,0,40101,"Office of the Chief Medical Examiner, Oklahoma",1,1,1,40,me,Muskogee County,0.22151086,4,0.57389963,0,0
+Oklahoma-2015-PRICE-TERRY,0,40143,"Office of the Chief Medical Examiner, Oklahoma",1,0,0,40,me,Tulsa County,0.15732943,1,0.63677865,0,0
+Oklahoma-2016-BALES-ROGER,0,40071,"Office of the Chief Medical Examiner, Oklahoma",1,0,1,40,me,Kay County,0.17836389,4,0.76505345,0,0
+Oklahoma-2016-BROOKS-OLLIE,0,40143,"Office of the Chief Medical Examiner, Oklahoma",1,0,0,40,me,Tulsa County,0.1592259,1,0.62152046,0,0
+Oklahoma-2016-SHRIVER II-MICHAEL,0,40047,"Office of the Chief Medical Examiner, Oklahoma",1,0,0,40,me,Garfield County,0.13127375,3,0.78452414,0,0
+Oklahoma-2016-WEBB-DIANGELO,0,40109,"Office of the Chief Medical Examiner, Oklahoma",1,0,0,40,me,Oklahoma County,0.17695835,1,0.5565213,0,0
+Oklahoma-2018-BOALS-RONALD,0,40143,"Office of the Chief Medical Examiner, Oklahoma",1,0,1,40,me,Tulsa County,0.1512651,1,0.62152046,0,0
+Oklahoma-2018-COOPER-MICHAEL,0,40033,"Office of the Chief Medical Examiner, Oklahoma",0,1,1,40,me,Cotton County,0.17379959,3,0.82889426,0,0
+Oklahoma-2018-HARVEY-JOSHUA,0,40143,"Office of the Chief Medical Examiner, Oklahoma",1,0,1,40,me,Tulsa County,0.1512651,1,0.62152046,0,0
+Oklahoma-2018-KESSEE-MARCONIA,0,40027,"Office of the Chief Medical Examiner, Oklahoma",1,0,0,40,me,Cleveland County,0.12488889,1,0.61694634,0,0
+Oklahoma-2019-KRUEGER-JEFFREY,0,40145,"Office of the Chief Medical Examiner, Oklahoma",0,1,1,40,me,Wagoner County,0.10352833,1,0.77384955,0,0
+Oklahoma-2019-LACKEY-JOSHUA,0,40109,"Office of the Chief Medical Examiner, Oklahoma",1,0,1,40,me,Oklahoma County,0.15956639,1,0.5565213,0,0
+Oklahoma-2019-LAKEY-JARED,0,40019,"Office of the Chief Medical Examiner, Oklahoma",0,0,1,40,me,Carter County,0.16093141,5,0.77458602,0,0
+Oklahoma-2019-MEELY-ANTHONY,0,40123,"Office of the Chief Medical Examiner, Oklahoma",1,0,1,40,me,Pontotoc County,0.14696382,7,0.74146998,0,0
+Oklahoma-2019-SCOTT-DERRICK,0,40109,"Office of the Chief Medical Examiner, Oklahoma",1,0,0,40,me,Oklahoma County,0.15956639,1,0.5565213,0,0
+Oklahoma-2019-STAPP-RAYMOND,0,40023,"Office of the Chief Medical Examiner, Oklahoma",1,0,1,40,me,Choctaw County,0.27709436,9,0.79764837,0,0
+Oklahoma-2019-VANLANDINGHAM-CHARLES,0,40109,"Office of the Chief Medical Examiner, Oklahoma",0,0,0,40,me,Oklahoma County,0.15956639,1,0.5565213,0,0
+Oklahoma-2020-JEFFERSON JR.-OLAIN,0,40109,"Office of the Chief Medical Examiner, Oklahoma",1,0,0,40,me,Oklahoma County,0.15546623,1,0.5565213,0,0
+Oklahoma-2020-MCCOY-DAWAWN,0,40109,"Office of the Chief Medical Examiner, Oklahoma",1,0,1,40,me,Oklahoma County,0.15546623,1,0.5565213,0,0
+Vermont-2012-BETTIS-WESLEY,0,50023,"Office of the Chief Medical Examiner, Vermont",1,1,1,50,me,Washington County,0.089341447,4,0.28452396,0,0
+Vermont-2012-MASON-MACADAM,0,50017,"Office of the Chief Medical Examiner, Vermont",0,0,1,50,me,Orange County,0.1189237,9,0.33577284,0,1
+Vermont-2019-KILBURN-DOUGLAS,0,50007,"Office of the Chief Medical Examiner, Vermont",0,0,0,50,me,Chittenden County,0.12076697,3,0.25336784,0,0
+West Virginia-2012-WINE-ELTON,0,54017,"Office of the Chief Medical Examiner, West Virginia",0,0,1,54,me,Doddridge County,0.21341071,9,0.7874307,0,0
+West Virginia-2014-EARLE-ANNIE,0,54011,"Office of the Chief Medical Examiner, West Virginia",0,1,1,54,me,Cabell County,0.22550642,2,0.56999332,0,0
+West Virginia-2016-AKERS-KNILES,0,54067,"Office of the Chief Medical Examiner, West Virginia",,,,54,me,Nicholas County,0.17610803,8,0.797602,0,
+West Virginia-2018-SMITH-DAVID,0,54041,"Office of the Chief Medical Examiner, West Virginia",1,0,1,54,me,Lewis County,0.20897843,9,0.79655641,0,0
+West Virginia-2019-DEAN-JAMES,0,54099,"Office of the Chief Medical Examiner, West Virginia",0,1,1,54,me,Wayne County,0.23242421,2,0.76862639,0,0
+West Virginia-2019-GRAHAM-MICHAEL,0,54081,"Office of the Chief Medical Examiner, West Virginia",1,0,0,54,me,Raleigh County,0.18616226,3,0.77385843,0,0
+Florida-2014-HEALEY-CODY,0,12033,Office of the Medical Examiner District 1,1,0,0,12,me,Escambia County,0.17110369,2,0.60390341,0,0
+Florida-2021-WILKS-CALVIN,0,12091,Office of the Medical Examiner District 1,1,1,1,,me,Okaloosa County,0.10977487,2,0.69970012,0,0
+Florida-2013-EIMERS-CHARLES,0,12087,Office of the Medical Examiner District 16,0,1,1,12,me,Monroe County,0.13503429,4,0.49780008,0,0
+Florida-2016-BERNE-GIOVANI,0,12009,Office of the Medical Examiner District 18,0,0,0,12,me,Brevard County,0.1396182,2,0.60309029,0,1
+Florida-2018-WHITMER JR.-DONALD,0,12009,Office of the Medical Examiner District 18,1,0,0,12,me,Brevard County,0.12719661,2,0.60309029,0,1
+Florida-2012-DILLARD-NEHEMIAH,0,12001,Office of the Medical Examiner District 8,0,0,0,12,me,Alachua County,0.23784029,2,0.41180292,0,0
+Missouri-2019-SYKES-SAM,1,29071,Office of the Regional Medical Examiner,1,0,0,29,coroner,Franklin County,0.10461514,1,0.74166334,0,1
+New Jersey-2014-WILLIAMS-PETER,0,34017,"Office of the State Medical Examiner, New Jersey",1,0,0,34,me,Hudson County,0.17365894,1,0.21674673,0,0
+New Jersey-2020-DOLCEAMORE-STEPHEN,0,34021,"Office of the State Medical Examiner, New Jersey",1,0,1,34,me,Mercer County,0.11104793,2,0.29649258,0,0
+Florida-2015-BENJAMIN-JERMAINE,0,12061,Officer of the Medical Examiner District 19,1,0,0,12,me,Indian River County,0.14352773,3,0.61247218,0,1
+New York-2018-HAVENER-JOHN,1,36053,Onondaga County Medical Examiner's Office,1,0,0,36,coroner,Madison County,0.098967858,2,0.57732856,0,0
+New York-2019-STROBRIDGE-GARY,0,36015,Onondaga County Medical Examiner's Office,1,0,1,36,me,Chemung County,0.13872659,3,0.59363741,0,0
+New York-2021-JONES-JASON,1,36039,Onondaga County Medical Examiner's Office,0,1,1,36,coroner,Greene County,0.10230065,6,0.57972133,0,0
+California-2013-RUNGE-RAYMOND,0,6059,Orange CA sheriff-coroner,1,0,0,6,sheriff-coroner,Orange County,0.12375499,1,0.53192079,0,0
+California-2015-ORNELAS-MANUEL,0,6037,Orange CA sheriff-coroner,1,0,0,6,sheriff-coroner,Los Angeles County,0.18210001,1,0.28538543,0,0
+California-2016-LIGHTHIPE-MARK,0,6059,Orange CA sheriff-coroner,1,0,0,6,sheriff-coroner,Orange County,0.12457813,1,0.45398256,0,0
+California-2016-TOBE-TIFFINI,0,6059,Orange CA sheriff-coroner,1,0,0,6,sheriff-coroner,Orange County,0.12457813,1,0.45398256,0,0
+California-2016-VALENZUELA-FERMIN,0,6059,Orange CA sheriff-coroner,1,1,1,6,sheriff-coroner,Orange County,0.12457813,1,0.45398256,0,0
+California-2017-ARIAS-CHRISTIAN,0,6059,Orange CA sheriff-coroner,1,0,0,6,sheriff-coroner,Orange County,0.12135865,1,0.45398256,0,0
+California-2018-DIAZ-PHILLIP,0,6059,Orange CA sheriff-coroner,1,0,0,6,sheriff-coroner,Orange County,0.11496694,1,0.45398256,0,0
+California-2018-EISINGER-CHRISTOPHER,0,6059,Orange CA sheriff-coroner,1,0,0,6,sheriff-coroner,Orange County,0.11496694,1,0.45398256,0,0
+California-2018-MAGEE-TERRALL,0,6059,Orange CA sheriff-coroner,1,0,1,6,sheriff-coroner,Orange County,0.11496694,1,0.45398256,0,0
+California-2018-MALDONADO-ANDRU,0,6059,Orange CA sheriff-coroner,1,0,0,6,sheriff-coroner,Orange County,0.11496694,1,0.45398256,0,0
+California-2018-PERKINS-JUSTIN,0,6059,Orange CA sheriff-coroner,1,0,0,6,sheriff-coroner,Orange County,0.11496694,1,0.45398256,0,0
+California-2018-PRASAD-REENAL,0,6059,Orange CA sheriff-coroner,1,0,0,6,sheriff-coroner,Orange County,0.11496694,1,0.45398256,0,0
+California-2018-TOMPKO-IAN,0,6059,Orange CA sheriff-coroner,1,0,0,6,sheriff-coroner,Orange County,0.11496694,1,0.45398256,0,0
+California-2019-AGUIRRE-JOSE,0,6059,Orange CA sheriff-coroner,1,0,0,6,sheriff-coroner,Orange County,0.1086162,1,0.45398256,0,0
+California-2019-ESPINOZA-DANIEL,0,6059,Orange CA sheriff-coroner,1,0,0,6,sheriff-coroner,Orange County,0.1086162,1,0.45398256,0,0
+Oregon-2012-CHAPPELL-SCOTT,0,41029,Oregon State Medical Examiner,1,0,0,41,me,Jackson County,0.16577432,3,0.5243454,0,0
+Oregon-2012-LADUE JR.-CHRISTOPHER,0,41029,Oregon State Medical Examiner,0,0,1,41,me,Jackson County,0.16577432,3,0.5243454,0,1
+Oregon-2012-NICHOLS-JERRY,0,41017,Oregon State Medical Examiner,0,1,1,41,me,Deschutes County,0.1308022,3,0.53463691,0,0
+Oregon-2013-MCKELVEY-WALTER,0,41019,Oregon State Medical Examiner,1,0,0,41,me,Douglas County,0.18748763,4,0.64222366,0,1
+Oregon-2013-PRICE-GREGORY,0,41019,Oregon State Medical Examiner,1,0,1,41,me,Douglas County,0.18748763,4,0.64222366,0,1
+Oregon-2018-BARRY-RICHARD,0,41051,Oregon State Medical Examiner,1,0,0,41,me,Multnomah County,0.1513492,1,0.18849146,0,0
+Oregon-2019-PLYMELL-JAMES,0,41043,Oregon State Medical Examiner,1,0,0,41,me,Linn County,0.13269052,3,0.65046716,0,0
+Oregon-2020-HUBER-KRISTOPHER,0,41029,Oregon State Medical Examiner,0,1,1,41,me,Jackson County,0.1370158,3,0.51779938,1,0
+Oregon-2020-JIMENEZ-ALEXANDER,0,41007,Oregon State Medical Examiner,1,0,0,41,me,Clatsop County,0.095873602,4,0.44168755,0,0
+Oregon-2020-PAYNE-LANDON,0,41039,Oregon State Medical Examiner,1,0,1,41,me,Lane County,0.17176223,2,0.37417445,0,1
+Kansas-2015-BAYLESS-MARTIN,0,20139,Osage KS coroner,0,0,0,20,coroner,Osage County,0.12591425,3,0.66123974,0,0
+Florida-2019-STEVENS-OMAR,0,12099,Palm Beach County Medical Examiner's Office,1,0,0,12,me,Palm Beach County,0.12165065,1,0.42097437,0,1
+Illinois-2019-SMITH-DAVID,0,17143,Peoria IL coroner,0,0,0,17,coroner,Peoria County,0.15635394,2,0.48353302,0,0
+Pennsylvania-2015-LOPEZ-OMAR,0,42101,Philadelphia Medical Examiners Office,1,0,0,42,me,Philadelphia County,0.2640529,1,0.14077163,0,0
+Washington-2014-HILLSTROM-RONALD,0,53053,Pierce County Medical Examiner,1,1,1,53,me,Pierce County,0.12552479,1,0.44332138,0,1
+Washington-2017-STEELE-RANDY,0,53053,Pierce County Medical Examiner,1,0,0,53,me,Pierce County,0.12230001,1,0.45974162,0,0
+Washington-2018-HAGUE-ROBERT,0,53053,Pierce County Medical Examiner,1,0,0,53,me,Pierce County,0.11164864,1,0.45974162,0,0
+Washington-2020-ELLIS-MANUEL,0,53053,Pierce County Medical Examiner,1,0,1,53,me,Pierce County,0.095252693,1,0.44211558,0,0
+Arizona-2012-CARBONE-MICHAEL,0,4019,Pima County Medical Examiner's Office,1,0,0,4,me,Pima County,0.18518266,1,0.46480069,0,0
+Arizona-2012-GERMANY III-DELBERT,0,4019,Pima County Medical Examiner's Office,1,0,0,4,me,Pima County,0.18518266,1,0.46480069,0,0
+Arizona-2017-CUTLER-DAVID,0,4019,Pima County Medical Examiner's Office,1,0,0,4,me,Pima County,0.18340923,1,0.4270153,0,0
+Arizona-2019-TORRES-DAVID,0,4019,Pima County Medical Examiner's Office,1,0,1,4,me,Pima County,0.16814904,1,0.4270153,0,0
+Arizona-2020-ALVARADO-DAMIEN,0,4019,Pima County Medical Examiner's Office,1,0,1,4,me,Pima County,0.15943709,1,0.4270153,0,0
+Arizona-2020-INGRAM LOPEZ-CARLOS,0,4019,Pima County Medical Examiner's Office,1,0,1,4,me,Pima County,0.15943709,1,0.4270153,0,0
+California-2015-THOMPSON-CHANCE,0,6115,Placer CA sheriff-coroner,1,0,0,6,sheriff-coroner,Yuba County,0.21944302,3,0.59385866,0,0
+California-2017-PRINZ-JAMES,0,6019,Placer CA sheriff-coroner,1,0,0,6,sheriff-coroner,Fresno County,0.25435659,1,0.46742153,0,0
+Texas-2012-BLACK-ALLEN,0,48375,Potter TX coroner,0,0,0,48,coroner,Potter County,0.22815393,2,0.72638613,0,0
+Texas-2014-FARRIS-JEREMIAH,0,48375,Potter TX coroner,1,0,0,48,coroner,Potter County,0.2236563,2,0.72638613,0,0
+Texas-2018-RIMPLE-SHAD,0,48375,Potter TX coroner,1,0,0,48,coroner,Potter County,0.20122209,2,0.71939021,0,0
+Texas-2021-BROWN-DAVID,0,48375,Potter TX coroner,1,0,0,48,coroner,Potter County,0.2045005,2,0.69698542,0,0
+Colorado-2017-MIERA-EMANUEL,0,8101,Pueblo CO coroner,1,0,0,8,coroner,Pueblo County,0.19806387,3,0.50270307,0,0
+Arkansas-2016-SEXTON-MARCUS,0,5119,Pulaski AR coroner,1,0,0,5,coroner,Pulaski County,0.17987731,2,0.40613005,0,0
+Minnesota-2013-LAYTON-ANDREW,0,27013,Ramsey County Medical Examiner,,,,27,me,Blue Earth County,0.19204929,3,0.4509069,0,
+Minnesota-2014-LOGAN-CHARLES,0,27123,Ramsey County Medical Examiner,0,0,0,27,me,Ramsey County,0.16849208,1,0.31942531,0,0
+Minnesota-2018-HILTNER-MITCHEL,0,27145,Ramsey County Medical Examiner,1,1,1,27,me,Stearns County,0.13051875,3,0.65056765,0,0
+Minnesota-2020-KELLY-JEREMY,0,27027,Ramsey County Medical Examiner,1,1,1,27,me,Clay County,0.12961553,3,0.47907645,0,0
+Minnesota-2020-MOODY-NEKEYA,0,27123,Ramsey County Medical Examiner,1,0,0,27,me,Ramsey County,0.13414435,1,0.26774073,0,1
+Wisconsin-2021-JACKSON-DEMETRIO,1,55035,Ramsey County Medical Examiner,1,0,0,55,me,Eau Claire County,0.12785609,3,0.44488335,0,0
+Pennsylvania-2017-JOHNSON-KENNETH,1,42011,Reading Hospital,0,0,1,42,coroner,Berks County,0.13611349,2,0.55194986,0,0
+Rhode Island-2012-RAPOSA-CRAIG,0,44005,Rhode Island Office of State Medical Examiners,0,0,1,44,me,Newport County,0.083128817,1,0.39317212,0,0
+Rhode Island-2013-CHARRIEZ-NOEL,0,44007,Rhode Island Office of State Medical Examiners,1,0,0,44,me,Providence County,0.1711984,1,0.32207134,0,0
+Rhode Island-2015-COSENTINO-RICHARD,0,44007,Rhode Island Office of State Medical Examiners,0,0,1,44,me,Providence County,0.17717938,1,0.32207134,0,0
+Rhode Island-2020-PUCINO-RONNY,0,44009,Rhode Island Office of State Medical Examiners,1,0,0,44,me,Washington County,0.081837967,1,0.40095741,0,0
+Rhode Island-2021-VENTRE-JOSEPH,0,44007,Rhode Island Office of State Medical Examiners,1,0,1,44,me,Providence County,0.13587001,1,0.38327795,0,0
+California-2012-EMERY-STEVE,1,6071,Riverside CA sheriff-coroner,0,0,0,6,sheriff-coroner,San Bernardino County,0.17587212,1,0.46233174,0,0
+California-2012-LAWSON-ANTHONY,0,6065,Riverside CA sheriff-coroner,0,0,0,6,sheriff-coroner,Riverside County,0.15551512,1,0.49155116,0,0
+California-2012-SZNAIDER-JOSHUA,0,6065,Riverside CA sheriff-coroner,1,0,0,6,sheriff-coroner,Riverside County,0.15551512,1,0.49155116,0,0
+California-2013-JOHNSON-RAYMOND,0,6065,Riverside CA sheriff-coroner,1,0,0,6,sheriff-coroner,Riverside County,0.1620554,1,0.49155116,0,0
+California-2013-PALMER-ROBERT,0,6065,Riverside CA sheriff-coroner,1,0,0,6,sheriff-coroner,Riverside County,0.1620554,1,0.49155116,0,0
+California-2014-PARKER-DANTE,0,6071,Riverside CA sheriff-coroner,1,0,0,6,sheriff-coroner,San Bernardino County,0.1917142,1,0.46233174,0,0
+California-2015-SLATER-JOSEPH,0,6071,Riverside CA sheriff-coroner,1,0,0,6,sheriff-coroner,San Bernardino County,0.19481345,1,0.46233174,0,0
+California-2016-SCHENCK-STEPHEN,0,6071,Riverside CA sheriff-coroner,1,0,0,6,sheriff-coroner,San Bernardino County,0.19123636,1,0.44314975,0,0
+California-2016-SMITH-DOMINIC,0,6065,Riverside CA sheriff-coroner,1,0,0,6,sheriff-coroner,Riverside County,0.16455869,1,0.47138929,0,0
+California-2018-LADEFOGED-ORLA,0,6065,Riverside CA sheriff-coroner,1,0,0,6,sheriff-coroner,Riverside County,0.14727904,1,0.47138929,0,0
+California-2018-ORELLANO-JOSE,0,6065,Riverside CA sheriff-coroner,1,0,0,6,sheriff-coroner,Riverside County,0.14727904,1,0.47138929,0,0
+California-2019-CRUZ-FERNANDO,0,6065,Riverside CA sheriff-coroner,1,0,0,6,sheriff-coroner,Riverside County,0.13703424,1,0.47138929,0,0
+California-2019-ESCUDERO-RUBEN,0,6071,Riverside CA sheriff-coroner,1,0,0,6,sheriff-coroner,San Bernardino County,0.15953138,1,0.44314975,0,0
+California-2019-NIEDZIALEK-KEVIN,0,6065,Riverside CA sheriff-coroner,1,0,0,6,sheriff-coroner,Riverside County,0.13703424,1,0.47138929,0,0
+California-2019-STEPHENSON-LEROY,0,6065,Riverside CA sheriff-coroner,1,0,0,6,sheriff-coroner,Riverside County,0.13703424,1,0.47138929,0,0
+California-2020-NORIEGA-VEGA-JOSE,0,6065,Riverside CA sheriff-coroner,1,0,0,6,sheriff-coroner,Riverside County,0.12526257,1,0.45948988,0,0
+California-2020-SERRANO-ERNIE,0,6065,Riverside CA sheriff-coroner,1,0,0,6,coroner,Riverside County,0.12526257,1,0.45948988,0,0
+California-2021-LIZARRAGA GARCIA-JOSE,0,6065,Riverside CA sheriff-coroner,1,0,0,6,sheriff-coroner,Riverside County,0.11955884,1,0.45948988,0,0
+New York-2020-DAVIS-TINA,0,36087,Rockand County Medical Examiner's Office,1,0,1,36,me,Rockland County,0.14548084,1,0.49122077,0,0
+California-2013-TORRETTI-JOHN,0,6067,Sacramento CA coroner,1,0,1,6,coroner,Sacramento County,0.17599516,1,0.40259871,0,1
+California-2014-HART-THURMAN,0,6067,Sacramento CA coroner,1,0,0,6,coroner,Sacramento County,0.18081984,1,0.40259871,0,0
+California-2015-MCARTHUR-DOUGLAS,0,6017,Sacramento CA coroner,1,0,1,6,coroner,El Dorado County,0.10437834,1,0.59175289,0,0
+California-2015-RAMIREZ-THOMAS,0,6067,Sacramento CA coroner,1,0,1,6,coroner,Sacramento County,0.18152376,1,0.40259871,0,0
+California-2016-LANDEROS-DANIEL,0,6067,Sacramento CA coroner,1,0,1,6,coroner,Sacramento County,0.17882116,1,0.36794218,0,0
+California-2016-MURPHY-CHRISTOPHER,0,6067,Sacramento CA coroner,1,0,1,6,coroner,Sacramento County,0.17882116,1,0.36794218,0,0
+California-2017-BARRERA-MICHAEL,0,6113,Sacramento CA coroner,1,0,1,6,coroner,Yolo County,0.1939545,1,0.2747215,0,0
+California-2020-PAYNE-REGINALD,0,6067,Sacramento CA coroner,0,0,1,6,coroner,Sacramento County,0.13852619,1,0.37046584,0,0
+California-2021-BOCCI-DAVID,0,6067,Sacramento CA coroner,1,0,1,6,coroner,Sacramento County,0.13259277,1,0.37046584,0,0
+California-2021-FLORES-JOSE,0,6101,Sacramento CA coroner,0,1,1,6,coroner,Sutter County,0.1263352,3,0.5839442,0,
+Michigan-2012-MERRILL-BOBBY,0,26145,Saginaw County Medical Examiner,1,0,0,26,me,Saginaw County,0.18701369,3,0.43995428,0,0
+Kansas-2016-BRUNSON-SCOTT,0,20169,Saline KS coroner,1,0,0,20,coroner,Saline County,0.14782046,5,0.68642342,0,0
+California-2012-QUINTANILLA-ALEX,0,6071,San Bernardino CA sheriff-coroner,1,0,1,6,sheriff-coroner,San Bernardino County,0.17587212,1,0.46233174,0,0
+California-2012-SCHROCK-THOMAS,0,6071,San Bernardino CA sheriff-coroner,1,0,1,6,sheriff-coroner,San Bernardino County,0.17587212,1,0.46233174,0,0
+California-2012-SERRANO-HUTALIO,0,6071,San Bernardino CA sheriff-coroner,0,0,1,6,sheriff-coroner,San Bernardino County,0.17587212,1,0.46233174,0,1
+California-2015-MARINO-ANTHONY,0,6071,San Bernardino CA sheriff-coroner,1,0,0,6,sheriff-coroner,San Bernardino County,0.19481345,1,0.46233174,0,0
+California-2015-SIQUEIROS-CHRISTIAN,0,6071,San Bernardino CA sheriff-coroner,1,0,1,6,sheriff-coroner,San Bernardino County,0.19481345,1,0.46233174,0,1
+California-2016-BRIONES-KYLE,0,6071,San Bernardino CA sheriff-coroner,0,0,1,6,sheriff-coroner,San Bernardino County,0.19123636,1,0.44314975,0,0
+California-2017-PANTALION-CASEY,0,6071,San Bernardino CA sheriff-coroner,1,0,0,6,sheriff-coroner,San Bernardino County,0.18172614,1,0.44314975,0,0
+California-2013-BARRAGAN-HUGO,0,6073,San Diego County Department of the Medical Examiner,1,0,1,6,me,San Diego County,0.14445649,1,0.46123043,0,0
+California-2015-PHOUNSY-LUCKY,0,6073,San Diego County Department of the Medical Examiner,1,0,1,6,me,San Diego County,0.14471735,1,0.46123043,0,0
+California-2016-BERMUDEZ-ROBERT,0,6073,San Diego County Department of the Medical Examiner,1,0,1,6,me,San Diego County,0.13995834,1,0.39379284,0,0
+California-2017-ADKINS-MARK,0,6073,San Diego County Department of the Medical Examiner,1,0,0,6,me,San Diego County,0.13331662,1,0.39379284,0,0
+California-2017-BIRTCHER-KRISTOPHER,0,6073,San Diego County Department of the Medical Examiner,1,0,1,6,me,San Diego County,0.13331662,1,0.39379284,0,0
+California-2018-CORRALES-GUILLERMO,0,6073,San Diego County Department of the Medical Examiner,1,0,0,6,me,San Diego County,0.1251561,1,0.39379284,0,0
+California-2018-LEAL-OSCAR,0,6073,San Diego County Department of the Medical Examiner,1,0,1,6,me,San Diego County,0.1251561,1,0.39379284,0,0
+California-2018-MCNEIL-EARL,0,6073,San Diego County Department of the Medical Examiner,1,0,0,6,me,San Diego County,0.1251561,1,0.39379284,0,0
+California-2018-NAPOLES-ROSALES-MARCO,0,6073,San Diego County Department of the Medical Examiner,1,0,1,6,me,San Diego County,0.1251561,1,0.39379284,0,0
+California-2018-VITALE-TODD,0,6073,San Diego County Department of the Medical Examiner,1,0,0,6,me,San Diego County,0.1251561,1,0.39379284,0,0
+California-2018-WATTS-JASON,0,6073,San Diego County Department of the Medical Examiner,1,0,0,6,me,San Diego County,0.1251561,1,0.39379284,0,1
+California-2019-HORNE-LAWAYNE,0,6073,San Diego County Department of the Medical Examiner,1,0,0,6,me,San Diego County,0.11587868,1,0.39379284,0,0
+California-2019-NICHOLS-BUDDIE,0,6073,San Diego County Department of the Medical Examiner,1,0,0,6,me,San Diego County,0.11587868,1,0.39379284,0,1
+California-2019-WILSON-TONY,0,6073,San Diego County Department of the Medical Examiner,1,0,0,6,me,San Diego County,0.11587868,1,0.39379284,0,0
+California-2020-GARRETT-HENRY-WESLEY,0,6073,San Diego County Department of the Medical Examiner,1,0,0,6,me,San Diego County,0.10921036,1,0.38350937,0,0
+California-2020-JIMENEZ-JOSEPH,0,6073,San Diego County Department of the Medical Examiner,1,0,0,6,me,San Diego County,0.10921036,1,0.38350937,0,0
+California-2020-NUNIS-ORAL,0,6073,San Diego County Department of the Medical Examiner,0,0,1,6,me,San Diego County,0.10921036,1,0.38350937,0,0
+California-2020-ZAFFINA-TONY,0,6073,San Diego County Department of the Medical Examiner,1,0,0,6,me,San Diego County,0.10921036,1,0.38350937,0,0
+California-2012-CARRILLO-BRANDON,0,6075,San Francisco Medical Examiner's Office,1,0,0,6,me,San Francisco County,0.13166863,1,0.13496599,0,0
+California-2014-MITCHELL-JONATHAN,0,6075,San Francisco Medical Examiner's Office,0,0,1,6,me,San Francisco County,0.13280861,1,0.13496599,0,0
+California-2015-BENSON-DARNELL,0,6075,San Francisco Medical Examiner's Office,1,0,0,6,me,San Francisco County,0.13244428,1,0.13496599,0,0
+California-2015-RAIYAWA-FILIMONI,0,6075,San Francisco Medical Examiner's Office,0,0,1,6,me,San Francisco County,0.13244428,1,0.13496599,0,0
+California-2016-ANDREWS-JEREMY,0,6075,San Francisco Medical Examiner's Office,1,0,1,6,me,San Francisco County,0.12453365,1,0.098460704,0,0
+California-2017-MARGO-CARLOS,0,6075,San Francisco Medical Examiner's Office,1,0,1,6,me,San Francisco County,0.11650855,1,0.098460704,0,0
+California-2019-KLIMENT-CHRISTOPHER,0,6075,San Francisco Medical Examiner's Office,1,0,1,6,me,San Francisco County,0.10335992,1,0.098460704,0,0
+California-2012-COOKE-JAMES,0,6077,San Joaquin CA,0,1,1,6,sheriff-coroner,San Joaquin County,0.1754338,2,0.42994225,0,0
+California-2016-CORDOVA-CUEVAS-ABELINO,0,6077,San Joaquin CA,1,1,1,6,sheriff-coroner,San Joaquin County,0.17764188,2,0.4233838,0,0
+California-2016-VALENCIA-FILIBERTO,0,6077,San Joaquin CA,0,1,1,6,sheriff-coroner,San Joaquin County,0.17764188,2,0.4233838,0,0
+California-2018-JOHNSON-VICTOR,0,6077,San Joaquin CA,1,0,0,6,me,San Joaquin County,0.15919271,2,0.4233838,0,0
+California-2020-SUTHERLAND-SHAYNE,0,6077,San Joaquin CA,1,0,0,6,me,San Joaquin County,0.13706568,2,0.42906797,0,0
+California-2018-OKOBI-CHINEDU,0,6081,San Mateo CA coroner,0,0,1,6,coroner,San Mateo County,0.070265837,1,0.19583112,0,0
+California-2018-RAGUDO-WARREN,0,6081,San Mateo CA coroner,1,0,1,6,coroner,San Mateo County,0.070265837,1,0.19583112,0,1
+California-2018-SAAD-RAMZI,0,6081,San Mateo CA coroner,0,0,1,6,coroner,San Mateo County,0.070265837,1,0.19583112,0,0
+California-2016-HUERTA-JOEL,0,6083,Santa Barbara CA sheriff-coroner,1,0,0,6,sheriff-coroner,Santa Barbara County,0.15895841,2,0.34472531,0,0
+Nebraska-2016-ZOUCHA-ALEX,0,31153,Sarpy NE coroner,1,0,0,31,coroner,Sarpy County,0.062181305,2,0.61690992,0,1
+New York-2017-KEARSE-ANDREW,0,36093,Schenectady County Medical Examiner's Office,0,0,0,36,me,Schenectady County,0.12351833,2,0.46177033,0,0
+Texas-2018-TARIN-ELEAZAR,0,48415,Scurry TX coroner,1,0,0,48,coroner,Scurry County,0.1395364,7,0.85747617,0,0
+Kansas-2015-MONTANO-JEROME,1,20191,Sedgwick County Regional Forensic Science Center,0,0,0,20,coroner,Sumner County,0.12396301,2,0.70195109,1,0
+Kansas-2017-MYERS-STEVEN,1,20007,Sedgwick County Regional Forensic Science Center,0,0,0,20,coroner,Barber County,0.15947118,9,0.86610484,0,0
+California-2012-WININGER-SCOTT,0,6089,Shasta CA sheriff-coroner,1,0,0,6,sheriff-coroner,Shasta County,0.17640965,3,0.65055627,0,0
+California-2013-MOTLEY-STEVEN,0,6089,Shasta CA sheriff-coroner,1,0,1,6,sheriff-coroner,Shasta County,0.17453377,3,0.65055627,0,0
+California-2014-ROBINSON-MATTHEW,0,6089,Shasta CA sheriff-coroner,0,0,0,6,sheriff-coroner,Shasta County,0.17980801,3,0.65055627,0,1
+California-2020-DAVIS-MORGAN,0,6089,Shasta CA sheriff-coroner,1,0,0,6,sheriff-coroner,Shasta County,0.15052933,3,0.66956347,0,0
+Kansas-2015-SCHICK-KENNETH,0,20177,Shawnee KS coroner,0,0,0,20,coroner,Shawnee County,0.15165852,3,0.5053975,0,0
+Washington-2019-DORN-JOSEPH,0,53057,Skagit WA coroner,0,1,1,53,coroner,Skagit County,0.11980817,3,0.48100182,0,0
+Texas-2019-WOOLVERTON-JACK,0,48213,Smith TX coroner,1,0,0,48,coroner,Henderson County,0.17089538,4,0.80664414,0,0
+Washington-2015-LACY-CECIL,0,53061,Snohomish County Medical Examiner's Office,1,0,0,53,me,Snohomish County,0.1016449,1,0.41369444,0,0
+Washington-2017-DOLD-ALEXANDER,0,53061,Snohomish County Medical Examiner's Office,0,0,0,53,me,Snohomish County,0.0881164,1,0.40913033,0,0
+Washington-2017-MANNING-MARCUS,0,53061,Snohomish County Medical Examiner's Office,1,0,0,53,me,Snohomish County,0.0881164,1,0.40913033,0,1
+Washington-2019-WEHMEYER-COLIN,0,53061,Snohomish County Medical Examiner's Office,1,0,1,53,me,Snohomish County,0.075001687,1,0.40913033,0,0
+California-2013-AUGUSTIN-CHRISTOPHER,0,6097,Sonoma CA sheriff-coroner,1,0,1,6,sheriff-coroner,Sonoma County,0.11876884,2,0.26246849,0,1
+California-2014-HOFFMAN-WAYNE,0,6097,Sonoma CA sheriff-coroner,1,0,1,6,sheriff-coroner,Sonoma County,0.12310623,2,0.26246849,0,0
+California-2016-RAVONO-SILIVENUSI,0,6041,Sonoma CA sheriff-coroner,0,0,1,6,sheriff-coroner,Marin County,0.080778345,1,0.16685571,0,1
+California-2017-WROTH-BRANCH,0,6097,Sonoma CA sheriff-coroner,1,0,1,6,sheriff-coroner,Sonoma County,0.10661534,2,0.24267028,0,0
+California-2021-PAS-JORDON,0,6097,Sonoma CA sheriff-coroner,1,0,1,6,sheriff-coroner,Sonoma County,0.086734422,2,0.23618694,0,0
+Indiana-2012-ANDERSON-MICHAEL,1,18141,South Bend Medical Foundation,0,1,1,18,coroner,St. Joseph County,0.16420238,2,0.48219886,0,0
+Minnesota-2018-RASMUSSEN-AARON,0,27103,Southern Minnesota Regional Medical Examiner's Office,0,0,1,27,me,Nicollet County,0.095545657,3,0.51687801,0,0
+Minnesota-2019-DASHOW-ALBERT,0,27109,Southern Minnesota Regional Medical Examiner's Office,0,0,1,27,me,Olmsted County,0.084285565,3,0.49582961,0,0
+New Jersey-2012-DAVIS-RAKEEN,0,34011,Southern Regional Medical Examiner's Office,,,,34,me,Cumberland County,0.16117729,3,0.37757024,0,
+New Jersey-2020-BELLINE-RICHARD,0,34035,Southern Regional Medical Examiner's Office,1,0,0,34,me,Somerset County,0.050846316,1,0.39305776,0,1
+Texas-2012-MORENO III-MARSHALL,0,48113,Southwestern Institute of Forensic Sciences,1,0,1,48,me,Dallas County,0.18827905,1,0.42175612,0,0
+Texas-2012-YOUNG-JACK,0,48113,Southwestern Institute of Forensic Sciences,1,0,1,48,me,Dallas County,0.18827905,1,0.42175612,0,0
+Texas-2013-DYER-GRAHAM,0,48113,Southwestern Institute of Forensic Sciences,0,1,1,48,me,Dallas County,0.19108556,1,0.42175612,0,0
+Texas-2013-GOLSTON-STACY,0,48113,Southwestern Institute of Forensic Sciences,1,0,0,48,me,Dallas County,0.19108556,1,0.42175612,0,1
+Texas-2013-WINSTON-JAMES,0,48113,Southwestern Institute of Forensic Sciences,1,0,0,48,me,Dallas County,0.19108556,1,0.42175612,0,0
+Texas-2014-EVANS-MARIO,0,48113,Southwestern Institute of Forensic Sciences,1,0,1,48,me,Dallas County,0.19330408,1,0.42175612,0,1
+Texas-2014-KLESSIG-THOMAS,0,48113,Southwestern Institute of Forensic Sciences,0,1,1,48,me,Dallas County,0.19330408,1,0.42175612,0,0
+Texas-2014-LILLY-IRETHA,1,48309,Southwestern Institute of Forensic Sciences,1,0,0,48,coroner,McLennan County,0.21526144,2,0.65088248,0,0
+Texas-2014-RICKS-ERIC,0,48113,Southwestern Institute of Forensic Sciences,1,0,0,48,me,Dallas County,0.19330408,1,0.42175612,0,0
+Texas-2015-ANTHONY-ROSS,0,48113,Southwestern Institute of Forensic Sciences,1,0,0,48,me,Dallas County,0.19268724,1,0.42175612,0,0
+Texas-2015-CARRIZALES-JUAN,0,48113,Southwestern Institute of Forensic Sciences,1,0,0,48,me,Dallas County,0.19268724,1,0.42175612,0,0
+Texas-2015-HUTCHESON-JOSEPH,0,48113,Southwestern Institute of Forensic Sciences,1,0,1,48,me,Dallas County,0.19268724,1,0.42175612,0,0
+Texas-2015-OZUNA-JOHN,0,48113,Southwestern Institute of Forensic Sciences,1,0,1,48,me,Dallas County,0.19268724,1,0.42175612,0,0
+Texas-2015-SANDERS-DAWASKI,0,48113,Southwestern Institute of Forensic Sciences,1,0,0,48,me,Dallas County,0.19268724,1,0.42175612,0,0
+Texas-2016-TIMPA-ANTHONY,0,48113,Southwestern Institute of Forensic Sciences,1,0,1,48,me,Dallas County,0.18574698,1,0.36317116,0,0
+Texas-2017-GAYLE-STEPHEN,1,48027,Southwestern Institute of Forensic Sciences,1,0,0,48,coroner,Bell County,0.14295472,2,0.57904875,0,0
+Texas-2018-NEWTON-JOHN,0,48113,Southwestern Institute of Forensic Sciences,1,0,0,48,me,Dallas County,0.16581984,1,0.36317116,0,0
+Texas-2018-ROSS-DIAMOND,0,48113,Southwestern Institute of Forensic Sciences,1,0,0,48,me,Dallas County,0.16581984,1,0.36317116,0,0
+Texas-2018-WRIGHT-WILLIE,0,48113,Southwestern Institute of Forensic Sciences,1,0,1,48,me,Dallas County,0.16581984,1,0.36317116,0,0
+Texas-2019-BOYKIN-DARREN,1,48037,Southwestern Institute of Forensic Sciences,0,0,0,48,coroner,Bowie County,0.16581482,3,0.73822641,0,0
+Texas-2019-MADDEN-RASHAD,0,48113,Southwestern Institute of Forensic Sciences,1,0,0,48,me,Dallas County,0.15358457,1,0.36317116,0,0
+Texas-2020-PAYNE-TONY,0,48113,Southwestern Institute of Forensic Sciences,1,0,0,48,me,Dallas County,0.14580372,1,0.33906621,0,0
+Texas-2020-RICE-JACKY,0,48113,Southwestern Institute of Forensic Sciences,1,0,0,48,me,Dallas County,0.14580372,1,0.33906621,0,0
+Texas-2021-RANEY-ROY,1,48337,Southwestern Institute of Forensic Sciences,1,0,0,48,me,Montague County,0.12425127,6,0.88704693,0,0
+Washington-2013-BERGER-WILLIAM,0,53063,Spokane County Medical Examiner,0,1,1,53,me,Spokane County,0.1536472,2,0.52985108,0,0
+Washington-2019-RUMYANTSEV-SERGEY,0,53063,Spokane County Medical Examiner,1,0,0,53,me,Spokane County,0.13693854,2,0.54746091,0,0
+Missouri-2015-KENKEL-ROBERT,0,29183,St. Charles County Medical Examiner,1,0,0,29,me,St. Charles County,0.062607251,1,0.60663009,0,1
+Illinois-2021-WALLACE-DIWONE,0,17163,St. Clair IL coroner,1,0,1,17,coroner,St. Clair County,0.13622531,1,0.45546922,0,0
+Missouri-2017-RULO-RICHARD,0,29187,St. Francois MO coroner,0,0,0,29,coroner,St. Francois County,0.15436457,4,0.73648703,0,0
+Louisiana-2015-LAZARD-DENNIS,0,22097,St. Landry LA coroner,1,0,0,22,coroner,St. Landry Parish,0.27917209,4,0.52196002,0,1
+Illinois-2013-BARNHART-ROY,0,17055,St. Louis City Medical Examiner,0,1,1,17,me,Franklin County,0.19083674,7,0.58598256,0,0
+Missouri-2012-HARRIS-KERWIN,0,29510,St. Louis City Medical Examiner,0,1,1,,me,St. Louis city,0.27044666,1,0.16188622,0,0
+Missouri-2017-ANELLO-SCOTT,0,29510,St. Louis City Medical Examiner,1,0,0,,me,St. Louis city,0.2498987,1,0.16656671,0,0
+Missouri-2019-CASTILLO-JEREMY,0,29510,St. Louis City Medical Examiner,1,0,0,,me,St. Louis city,0.21826626,1,0.16656671,0,1
+Missouri-2019-GRAVES-JULIUS,0,29510,St. Louis City Medical Examiner,0,0,0,,me,St. Louis city,0.21826626,1,0.16656671,0,1
+Missouri-2020-KESSINGER-JOSHUA,0,29510,St. Louis City Medical Examiner,1,0,1,,me,St. Louis city,0.20432468,1,0.16322218,0,0
+Missouri-2013-JOHNSON-ANTONIO,0,29189,St. Louis County Medical Examiner,1,0,0,29,me,St. Louis County,0.10892916,1,0.43067306,0,0
+Missouri-2017-KLEIN-TEREANCE,0,29510,St. Louis County Medical Examiner,1,0,0,,me,St. Louis city,0.2498987,1,0.16656671,0,1
+Missouri-2019-SAMPLE-WILLIE,0,29189,St. Louis County Medical Examiner,1,0,0,29,me,St. Louis County,0.09744212,1,0.41385865,0,1
+Minnesota-2014-UMPIERRE-KENNETH,0,27137,St. Louis County Medical Examiner's Office,0,0,0,27,me,St. Louis County,0.17022626,2,0.34780329,0,0
+Louisiana-2012-ABRAHAM-DAMON,0,22101,St. Mary LA coroner,0,0,0,22,coroner,St. Mary Parish,0.20335218,4,0.59502894,0,1
+Louisiana-2021-NELSON-ERIC,0,22117,St. Tammany Parish Coroner's Office,0,0,0,22,coroner,Washington Parish,0.24652316,6,0.69030452,0,0
+California-2012-SAUDE-JERRY,0,6099,Stanislaus CA sheriff-coroner,0,0,0,6,sheriff-coroner,Stanislaus County,0.19227535,2,0.48589459,0,1
+California-2016-SCHMIDT-GARRETT,0,6099,Stanislaus CA sheriff-coroner,1,0,0,6,sheriff-coroner,Stanislaus County,0.18249348,2,0.49015555,0,0
+California-2018-SANCHEZ-ALEJANDRO,0,6099,Stanislaus CA sheriff-coroner,0,1,1,6,sheriff-coroner,Stanislaus County,0.16110168,2,0.49015555,0,0
+California-2019-SANTILLAN-RUDY,0,6099,Stanislaus CA sheriff-coroner,1,0,0,6,sheriff-coroner,Stanislaus County,0.15114835,2,0.49015555,0,0
+Texas-2020-BARRON JR.-REFUGIO,0,48427,Starr TX coroner,1,1,1,48,coroner,Starr County,0.34175301,4,0.47478411,0,0
+New York-2013-PORTS-LAWRENCE,0,36103,Suffolk County Medical Examiner's Office,,,,36,me,Suffolk County,0.064466283,1,0.45830548,0,
+New York-2013-SIMMONS-DAINELL,0,36103,Suffolk County Medical Examiner's Office,,,,36,me,Suffolk County,0.064466283,1,0.45830548,0,
+New York-2020-ROUNTREE-WENZOLA,0,36103,Suffolk County Medical Examiner's Office,1,0,0,36,me,Suffolk County,0.064580865,1,0.50525731,0,0
+Ohio-2015-MILLER-JORDN,1,39023,Summit County Medical Examiner,1,0,0,39,coroner,Clark County,0.18299611,3,0.50410366,0,0
+Ohio-2015-MOXLEY-TERRENCE,1,39139,Summit County Medical Examiner,1,0,0,39,coroner,Richland County,0.17005841,3,0.59884357,0,0
+Ohio-2018-ANGERSTIEN-RYAN,1,39023,Summit County Medical Examiner,1,0,1,39,coroner,Clark County,0.15765749,3,0.60145557,0,0
+Texas-2012-BIRDOW-DERRICK,0,48439,Tarrant County Medical Examiner's Office,1,1,1,48,me,Tarrant County,0.14700803,1,0.57960999,0,0
+Texas-2012-GUERRA-DANIEL,0,48439,Tarrant County Medical Examiner's Office,1,0,0,48,me,Tarrant County,0.14700803,1,0.57960999,0,0
+Texas-2013-DARDEN-JERMAINE,0,48439,Tarrant County Medical Examiner's Office,0,0,1,48,me,Tarrant County,0.15178332,1,0.57960999,0,0
+Texas-2014-DUSTMAN-BRADY,0,48439,Tarrant County Medical Examiner's Office,0,0,0,48,me,Tarrant County,0.15328804,1,0.57960999,0,0
+Texas-2015-CASTILLO GONGORA-WILBER,0,48485,Tarrant County Medical Examiner's Office,1,0,1,48,me,Wichita County,0.17583986,3,0.73907334,0,0
+Texas-2015-WALKER-COY,0,48367,Tarrant County Medical Examiner's Office,1,1,1,48,me,Parker County,0.099393599,1,0.83325547,0,0
+Texas-2016-FRIEDRICH-NANCY,0,48439,Tarrant County Medical Examiner's Office,1,0,0,48,me,Tarrant County,0.14356154,1,0.54534751,0,0
+Texas-2017-MCNIEL-DELBERT,1,48253,Tarrant County Medical Examiner's Office,1,0,0,48,coroner,Jones County,0.15939742,3,0.83735883,0,1
+Texas-2018-JEFFERSON-QUAMON,0,48439,Tarrant County Medical Examiner's Office,1,0,0,48,me,Tarrant County,0.1294975,1,0.54534751,0,0
+Texas-2018-LOWE-CHRISTOPHER,0,48439,Tarrant County Medical Examiner's Office,1,0,0,48,me,Tarrant County,0.1294975,1,0.54534751,0,0
+Texas-2019-CAMPBELL-WILLIAM,1,48135,Tarrant County Medical Examiner's Office,1,0,0,48,coroner,Ector County,0.11900834,3,0.70940489,0,0
+Texas-2021-GALLEGOS-EUSTACIO,1,48305,Tarrant County Medical Examiner's Office,0,0,0,48,coroner,Lynn County,0.15877336,2,0.81236297,0,0
+Texas-2021-MCKINNEY-JOSHUA,1,48023,Tarrant County Medical Examiner's Office,1,0,0,48,coroner,Baylor County,0.15318772,9,0.89087659,0,0
+California-2012-MYERS-DANIEL,0,6103,Tehama CA sheriff-coroner,1,0,0,6,sheriff-coroner,Tehama County,0.20293994,4,0.64211285,0,0
+California-2016-VELEZ-HARRY,0,6103,Tehama CA sheriff-coroner,1,0,0,6,sheriff-coroner,Tehama County,0.21482196,4,0.69470477,0,
+Indiana-2019-MCINTOSH-DOUGLAS,1,18121,Terre Haute Regional Hospital,1,0,0,18,coroner,Parke County,0.14507471,8,0.771415,0,0
+Washington-2018-HOPSON-VANEESA,0,53067,Thurston WA coroner,,,,53,coroner,Thurston County,0.10966497,2,0.41409618,0,
+Tennessee-2012-DAVIS JR.-LORENZO,1,47157,TN state ME system,1,0,0,47,me,Shelby County,0.20247056,1,0.36851928,0,0
+Tennessee-2012-GREEN-RANDY,0,47157,TN state ME system,1,0,0,47,me,Shelby County,0.20247056,1,0.36851928,0,0
+Tennessee-2012-HOWLETT-WILLIAM,0,47157,TN state ME system,0,0,0,47,me,Shelby County,0.20247056,1,0.36851928,0,0
+Tennessee-2013-DUMAS-AARON,1,47157,TN state ME system,0,1,1,47,me,Shelby County,0.2081483,1,0.36851928,0,0
+Tennessee-2014-COURTNER-KEVIN,1,47105,TN state ME system,1,0,0,47,me,Loudon County,0.15658073,2,0.76760852,0,1
+Tennessee-2014-EPPERSON-EDDIE,0,47053,TN state ME system,1,0,0,47,me,Gibson County,0.19329944,3,0.66246724,0,0
+Tennessee-2015-ACTON-BRIAN,1,47119,TN state ME system,1,0,0,47,me,Maury County,0.1530256,1,0.63652289,0,1
+Tennessee-2016-EDWARDS-ANTHONY,1,47155,TN state ME system,0,1,1,47,me,Sevier County,0.15305084,4,0.81970453,0,0
+Tennessee-2016-SHURDEN JR.-LARRY,0,47093,TN state ME system,0,0,0,47,me,Knox County,0.16187394,2,0.62715763,0,0
+Tennessee-2017-SPARKS-RICHARD,1,47141,TN state ME system,1,0,0,47,me,Putnam County,0.2326317,4,0.73500174,0,1
+Tennessee-2017-TURNER-AUSTIN,1,47163,TN state ME system,1,0,0,47,me,Sullivan County,0.16562453,2,0.78880733,0,0
+Tennessee-2018-CONN-JEREMY,0,47065,TN state ME system,1,0,0,47,me,Hamilton County,0.13656916,2,0.58734494,0,0
+Tennessee-2018-CRESPO-MAURIS,1,47185,TN state ME system,1,0,0,47,me,White County,0.17395633,7,0.80611604,0,0
+Tennessee-2019-BINKLEY-JOHNATHAN,0,47093,TN state ME system,1,0,0,47,me,Knox County,0.14542288,2,0.62715763,0,0
+Tennessee-2019-HIGGINS-STERLING,1,47131,TN state ME system,1,0,0,47,me,Obion County,0.21054223,7,0.79702145,0,1
+Tennessee-2020-BOYD-LARRY,1,47037,TN state ME system,1,0,0,47,me,Davidson County,0.14232948,1,0.33414799,0,1
+Tennessee-2020-OTT-ALLEN,1,47107,TN state ME system,1,0,0,47,me,McMinn County,0.16318636,4,0.80668467,0,0
+Tennessee-2021-GREEN-ADAM,1,47189,TN state ME system,1,0,0,47,me,Wilson County,0.083691075,1,0.69325984,0,0
+Tennessee-2021-SONGER-CHAD,1,47007,TN state ME system,1,0,0,47,me,Bledsoe County,0.21127798,8,0.82952952,0,0
+Texas-2013-KEY-MICAH,0,48451,Tom Green TX coroner,0,1,1,48,coroner,Tom Green County,0.16196871,3,0.74306095,0,0
+Texas-2013-THOMAS-JOHN,0,48453,Travis County Medical Examiner's Office,1,0,1,48,me,Travis County,0.17417841,1,0.37580308,0,0
+Texas-2014-RICE-TIMOTHY,0,48453,Travis County Medical Examiner's Office,1,0,0,48,me,Travis County,0.1751864,1,0.37580308,0,0
+Texas-2014-SULLIVAN-WILLIAM,0,48491,Travis County Medical Examiner's Office,0,1,1,48,me,Williamson County,0.07564766,1,0.61055762,0,0
+Texas-2015-EDWARDS-ROBERT,0,48453,Travis County Medical Examiner's Office,1,0,1,48,me,Travis County,0.16408338,1,0.37580308,0,0
+Texas-2015-SIZER SR.-JAMES,0,48453,Travis County Medical Examiner's Office,1,1,1,48,me,Travis County,0.16408338,1,0.37580308,0,0
+Texas-2018-JUAREZ-LORENZO,1,48021,Travis County Medical Examiner's Office,1,0,0,48,coroner,Bastrop County,0.10048455,1,0.60705656,0,0
+Texas-2018-LANDRY-PAUL,0,48453,Travis County Medical Examiner's Office,1,0,1,48,me,Travis County,0.13121884,1,0.29211953,0,0
+Texas-2019-AMBLER II-JAVIER,0,48453,Travis County Medical Examiner's Office,0,0,1,48,me,Travis County,0.11964566,1,0.29211953,0,0
+Texas-2020-MASCORRO-ARMANDO,0,48021,Travis County Medical Examiner's Office,1,0,1,48,me,Bastrop County,0.11271803,1,0.57004726,0,0
+Texas-2020-QUIROZ-ENRIQUE,0,48453,Travis County Medical Examiner's Office,1,0,1,48,me,Travis County,0.11376366,1,0.27015707,0,0
+Texas-2021-MOSQUEDA-ANTONIO,0,48453,Travis County Medical Examiner's Office,1,0,1,48,me,Travis County,0.11227557,1,0.27015707,0,0
+Texas-2021-VARGAS-EDDIE,0,48453,Travis County Medical Examiner's Office,1,0,1,48,me,Travis County,0.11227557,1,0.27015707,0,0
+California-2015-GONZALES-JOSHUA,0,6107,Tulare CA sheriff-coroner,1,0,0,6,sheriff-coroner,Tulare County,0.2808744,2,0.57701504,0,0
+California-2017-DALEMAN-KARL,0,6107,Tulare CA sheriff-coroner,1,0,0,6,sheriff-coroner,Tulare County,0.27088881,2,0.55059308,0,0
+Louisiana-2019-GREENE-RONALD,0,22111,Union Parish LA coroner,1,1,1,22,coroner,Union Parish,0.17289397,3,0.74763203,0,1
+Utah-2012-NELSON-ALLEN,0,49035,Utah Office of Medical Examiner,1,0,1,49,me,Salt Lake County,0.12010183,1,0.60496324,0,0
+Utah-2013-CARMICKLE-JAYSON,0,49047,Utah Office of Medical Examiner,,,,49,me,Uintah County,0.11554836,7,0.91268176,0,
+Utah-2015-GORMLEY-SHANE,0,49057,Utah Office of Medical Examiner,1,1,1,49,me,Weber County,0.12975588,2,0.73211366,0,0
+Indiana-2019-SNUKIS-EDWARD,0,18163,Vanderburgh IN coroner,1,0,0,18,coroner,Vanderburgh County,0.16675161,2,0.58667749,0,0
+Indiana-2020-BEASLEY-STEVEN,0,18163,Vanderburgh IN coroner,0,0,0,18,coroner,Vanderburgh County,0.16057985,2,0.54870898,0,0
+Indiana-2020-SMITH-DEAN,0,18163,Vanderburgh IN coroner,1,0,0,18,coroner,Vanderburgh County,0.16057985,2,0.54870898,0,0
+Virginia-2013-DIXON-MARLON,0,51650,Virginia Office of the Chief Medical Examiner,1,0,0,,me,Hampton city,0.14856832,1,0.28412035,0,0
+Virginia-2013-LAMBERT-LINWOOD,0,51083,Virginia Office of the Chief Medical Examiner,1,0,1,51,me,Halifax County,0.21302381,6,0.52818954,0,1
+Virginia-2015-BERTUGLIA-JAMES,0,51009,Virginia Office of the Chief Medical Examiner,1,0,1,51,me,Amherst County,0.13024768,2,0.60070384,0,1
+Virginia-2015-WISE-DOMINICK,0,51047,Virginia Office of the Chief Medical Examiner,1,1,1,51,me,Culpeper County,0.092509314,1,0.5829348,0,0
+Virginia-2016-GIANELOS-PAUL,0,51610,Virginia Office of the Chief Medical Examiner,0,0,1,,me,Falls Church city,0.026933294,1,0.18535629,0,0
+Virginia-2017-JONES-SABIN,0,51117,Virginia Office of the Chief Medical Examiner,0,1,1,51,me,Mecklenburg County,0.16866221,7,0.56872296,0,1
+Virginia-2017-WATTS-CLIFTON,0,51770,Virginia Office of the Chief Medical Examiner,1,0,0,,me,Roanoke city,0.21584977,2,0.39889413,0,0
+Virginia-2018-LAWHON-JOSHUA,0,51760,Virginia Office of the Chief Medical Examiner,,,,,me,Richmond city,0.24536118,1,0.16089426,0,
+Virginia-2018-PAUL-CHRISTOPHER,0,51510,Virginia Office of the Chief Medical Examiner,1,0,0,,me,Alexandria city,0.10592816,1,0.18836758,0,0
+Florida-2018-COFFMAN-TIMOTHY,0,12127,Volusia County Medical Examiner's Office,1,0,0,12,me,Volusia County,0.1520347,2,0.56726748,0,0
+Oregon-2020-MARSHALL-JAMES,0,41067,Washington County Medical Examiner's Office,1,0,0,41,me,Washington County,0.084519669,1,0.32061112,0,1
+Nevada-2015-PURDY JR.-THOMAS,0,32031,Washoe County Medical Examiner's Office,1,0,0,32,me,Washoe County,0.15200713,2,0.48108363,0,1
+Nevada-2016-TALANCON-KRISTOFER,0,32031,Washoe County Medical Examiner's Office,1,0,1,32,me,Washoe County,0.14964421,2,0.49317935,0,0
+Nevada-2021-JACKSON-GEORGIANNA,0,32031,Washoe County Medical Examiner's Office,0,0,0,32,me,Washoe County,0.10944486,2,0.47670868,1,0
+Wisconsin-2021-BRUNER-PAUL,0,55133,Waukesha County Medical Examiner's Office,0,0,1,55,me,Waukesha County,0.049332935,1,0.60575211,0,0
+Michigan-2015-CLARK-REED-ANTHONY,0,26163,Wayne County Medical Examiner,0,0,0,26,me,Wayne County,0.25034216,1,0.26407874,0,0
+Michigan-2015-KAPUSCINSKI-DAVID,0,26163,Wayne County Medical Examiner,1,1,1,26,me,Wayne County,0.25034216,1,0.26407874,0,0
+Michigan-2017-GRIMES-DAMON,0,26163,Wayne County Medical Examiner,0,1,1,26,me,Wayne County,0.23742481,1,0.30596164,0,0
+Michigan-2018-MOORE-CHARLES,0,26163,Wayne County Medical Examiner,0,0,0,26,me,Wayne County,0.23051454,1,0.30596164,0,0
+Michigan-2020-ADAMS-ALLEN,0,26163,Wayne County Medical Examiner,0,0,0,26,me,Wayne County,0.213328,1,0.30700469,0,0
+Texas-2019-GUERRERO-ENCARNACION,1,48323,Webb County Medical Examiner's Office,1,0,0,48,coroner,Maverick County,0.26937142,3,0.21312344,0,0
+Colorado-2019-RODRIGUEZ-ISAIAS,0,8123,Weld CO coroner,1,0,0,8,coroner,Weld County,0.1001227,2,0.62231874,0,0
+Indiana-2017-SCHMIDT-JASON,0,18183,Wells IN coroner,1,0,0,18,coroner,Whitley County,0.094609357,2,0.77071315,0,0
+New York-2014-TELLONE-TRAVIS,0,36119,Westchester County Medical Examiner Office,,,,36,me,Westchester County,0.095713347,1,0.35838455,0,
+New York-2015-SEGUIN-JOSEPH,1,36079,Westchester County Medical Examiner Office,1,0,1,36,coroner,Putnam County,0.053060226,1,0.5302301,0,0
+New York-2017-MALDONADO-JONATHAN,0,36119,Westchester County Medical Examiner Office,1,0,0,36,me,Westchester County,0.094359182,1,0.32471472,0,0
+Michigan-2018-LUNNEEN-JACK,0,26021,Western Michigan University School of Medicine,1,0,0,26,me,Berrien County,0.16462606,3,0.56715387,0,1
+Michigan-2020-STRAMPEL-NATHAN,0,26005,Western Michigan University School of Medicine,1,0,0,26,me,Allegan County,0.087788567,4,0.62866604,0,1
+Pennsylvania-2021-CHRISTOPHER-JEFFRY,1,42059,Westmoreland County Forensic Center,0,0,0,42,coroner,Greene County,0.12612228,6,0.71921098,0,0
+Washington-2018-ELDARD-ROBERT,0,53073,Whatcom County Medical Examiner's Office,1,1,1,53,me,Whatcom County,0.15002884,3,0.40221322,0,0
+Kansas-2014-MCKINNIS-CRAIG,0,20209,Wyandotte KS coroner,0,0,0,20,coroner,Wyandotte County,0.24291401,1,0.31117716,0,0
+Kansas-2015-TORRENCE-RANDALL,0,20209,Wyandotte KS coroner,1,0,0,20,coroner,Wyandotte County,0.23862894,1,0.31117716,0,0
+Washington-2020-EUBANKS-TIFFANY,0,53077,Yakima WA coroner,1,0,0,53,coroner,Yakima County,0.16485585,2,0.53934538,0,0
+California-2015-SHURTZ JR.-DAVID,0,6113,Yolo CA sheriff-coroner,1,0,1,6,sheriff-coroner,Yolo County,0.19907404,1,0.32418185,0,1
+Alabama-2016-CUPPS-DANNY,,1073,,,,,1,coroner,Jefferson County,0.18104172,1,0.46210238,0,
+Alabama-2017-CRAWFORD-JOSHUA,,1125,,,,,1,coroner,Tuscaloosa County,0.17318487,2,0.60040259,0,
+Alabama-2017-JACKSON-LADARIUS,,1121,,,,,1,coroner,Talladega County,0.19302097,4,0.62972355,0,
+Alabama-2018-MCKINNEY-CHRISTOPHER,,1055,,,,,1,coroner,Etowah County,0.17258903,3,0.75599951,0,
+Alabama-2020-GRANT-CARL,,1073,,0,0,0,1,coroner,Jefferson County,0.15664311,1,0.43316558,0,0
+Alabama-2020-WATKINS-KENDRELL,,1125,,,,,1,coroner,Tuscaloosa County,0.17214628,2,0.57511079,0,
+Florida-2020-DOCHER-TAVARES,0,12111,,,,,12,me,St. Lucie County,0.13098474,2,0.50787866,0,
+Florida-2021-WALLS-CHRISTOPHER,0,12011,,0,1,1,12,me,Broward County,0.12375163,1,0.35016033,0,0
+Illinois-2012-GREEN-JERSEY,,17089,,,,,17,coroner,Kane County,0.10967904,1,0.49441138,0,
+Illinois-2014-PAUL-JOSHUA,,17089,,0,1,1,17,coroner,Kane County,0.11543463,1,0.49441138,0,0
+Illinois-2016-HEFFRAN-JOHN,,17201,,0,0,1,17,coroner,Winnebago County,0.15527339,2,0.49960032,0,0
+Illinois-2016-TURNER-RICHARD,,17019,,1,0,0,17,coroner,Champaign County,0.21617718,3,0.39959285,0,0
+Illinois-2019-LUKE-BRETT,,17201,,1,0,0,17,coroner,Winnebago County,0.15556476,2,0.49960032,0,0
+Illinois-2019-STRAHAN-JASON,,17119,,1,0,0,17,coroner,Madison County,0.13235891,1,0.58219153,0,0
+Illinois-2020-LURRY-ERIC,,17197,,1,0,0,17,coroner,Will County,0.068234414,1,0.45752749,0,0
+Illinois-2020-ROSILES-ABEL,,17097,,0,0,0,17,coroner,Lake County,0.075683713,1,0.37724113,0,0
+Indiana-2020-BOEHNLEIN-ALLEN,,18141,,1,0,0,18,coroner,St. Joseph County,0.14788555,2,0.4702282,0,0
+Indiana-2020-DONELLI-DAVID,,18059,,0,1,1,18,coroner,Hancock County,0.058894198,1,0.6921773,0,0
+Indiana-2020-TERHUNE-EVAN,,18163,,1,1,1,18,coroner,Vanderburgh County,0.16057985,2,0.54870898,0,0
+Indiana-2021-WRIGHT-NELSON,,18109,,1,0,1,18,coroner,Morgan County,0.088574037,1,0.77953136,0,0
+Iowa-2020-BROWN-TENORIO-EMERSON,,19171,,,,,19,coroner,Tama County,0.12565191,6,0.60866904,0,
+Louisiana-2013-ROBINSON-DONTRUNNER,,22033,,,,,22,coroner,East Baton Rouge Parish,0.19181854,2,0.47341856,0,
+Louisiana-2014-ARDOIN-KEENAN,,22039,,1,0,0,22,coroner,Evangeline Parish,0.25550425,6,0.6563729,0,0
+Louisiana-2014-CHRISTMAS-JEROME,,22017,,1,0,0,22,coroner,Caddo Parish,0.21055853,2,0.47473779,0,0
+Louisiana-2016-RIVERS-WALTER,,22113,,,,,22,coroner,Vermilion Parish,0.17331763,2,0.80509633,0,
+Louisiana-2018-MCCOY-NATHANIEL,,22055,,1,0,1,22,coroner,Lafayette Parish,0.16529176,2,0.67572653,0,1
+Louisiana-2020-AUSTIN-WAVEY,,22017,,0,0,0,22,coroner,Caddo Parish,0.22869794,2,0.4656311,0,1
+Louisiana-2020-MCGLOTHEN-TOMMIE,,22017,,,,,22,coroner,Caddo Parish,0.22869794,2,0.4656311,0,
+Maryland-2020-MORALES-EDWIN,0,24033,,,,,24,me,Prince George's County,0.085942462,1,0.087064162,0,
+Mississippi-2015-COLEMAN-DAVID,,28145,,,,,28,,Union County,0.22531405,7,0.75604981,0,
+Mississippi-2018-MAYS-NATHAN,,28145,,,,,28,,Union County,0.15569995,7,0.82110786,0,
+Montana-2012-DOWNEN-STANLEY,,30029,,0,0,0,30,sheriff-coroner,Flathead County,0.1248999,5,0.6708135,0,0
+Nebraska-2015-MURPHY-ANDRE,,31119,,,,,31,coroner,Madison County,0.15039515,5,0.74274749,0,
+Pennsylvania-2014-PAULINO-JOSE,,42107,,,,,42,coroner,Schuylkill County,0.13356644,4,0.56803465,0,
+Pennsylvania-2015-MARKUS-LUCAS,,42107,,1,0,1,42,coroner,Schuylkill County,0.13137637,4,0.56803465,0,1
+Pennsylvania-2016-GRIFFITH-JOSHUA,,42091,,1,0,0,42,coroner,Montgomery County,0.065736584,1,0.38855287,0,0
+Pennsylvania-2019-WILLIAMS-GEOFFREY,,42069,,0,1,1,42,coroner,Lackawanna County,0.14696044,2,0.4820708,0,0
+Pennsylvania-2021-ROGERS-JIM,0,42003,,1,0,0,42,me,Allegheny County,0.11107662,1,0.39686304,0,0
+South Carolina-2013-BALLARD-CARL,,45089,,1,0,0,45,coroner,Williamsburg County,0.30829161,6,0.29853332,0,0
+South Carolina-2013-EVANS-BRAD,,45007,,1,0,0,45,coroner,Anderson County,0.16754837,2,0.68494248,0,0
+South Carolina-2013-HOWARD-LARRY,,45045,,,,,45,coroner,Greenville County,0.15762842,2,0.64127427,0,
+South Carolina-2016-CLINKSCALES-BENSTON,,45007,,1,0,0,45,coroner,Anderson County,0.16264945,2,0.72717869,0,1
+South Carolina-2016-SAWYER-MICHAEL,,45015,,1,0,1,45,coroner,Berkeley County,0.13188276,2,0.59218776,0,0
+South Carolina-2017-EDGE-JACKSON,,45083,,1,0,0,45,coroner,Spartanburg County,0.15561485,2,0.65601081,0,0
+South Carolina-2017-SCRUGGS-RANDALL,,45077,,0,1,1,45,coroner,Pickens County,0.18304639,2,0.77776349,0,0
+South Carolina-2018-GAMBRELL-ROBERT,,45077,,1,0,0,45,coroner,Pickens County,0.17522773,2,0.77776349,0,0
+South Carolina-2018-PRINGLE-TREY,,45013,,0,1,1,45,coroner,Beaufort County,0.11120508,3,0.57183588,0,0
+South Carolina-2019-GAGLIANI-STEPHEN,,45063,,0,0,1,45,coroner,Lexington County,0.12538163,2,0.6943326,0,0
+South Carolina-2019-JOHNSON-DERRICK,,45091,,0,0,1,45,coroner,York County,0.10472637,1,0.61611307,0,0
+South Carolina-2020-CROW-CEDARIAN,,45091,,1,0,0,45,coroner,York County,0.095340922,1,0.61611307,0,0
+South Carolina-2021-MYERS-EXZABIAN,,45003,,,,,45,coroner,Aiken County,0.13267508,2,0.64388639,0,
+Texas-2014-PEREZ-JUAN,,48409,,1,0,0,48,coroner,San Patricio County,0.16283999,2,0.60445094,0,0
+Washington-2015-DICK-WILLIAM,,53047,,1,0,1,53,coroner,Okanogan County,0.21237503,6,0.56470084,0,0
